@@ -1,0 +1,2092 @@
+lang=0x021 Indonesian
+tips=tips_id.txt
+
+// Translator: ABEMEISHA (Abe Meishandy Malik)
+// FB: fb.com/abemeisha
+// Word Revision: 1.0c
+// IDM Version: 6.4.1 Build 2
+// Changelog 1.0a: Updated missing lines
+// Changelog 1.0b: Fix some words
+// Changelog 1.0c: Update all words/sentences
+
+// Dialogs
+
+//main dialog
+1281=Kategori
+20369=Q
+20370=Nama Berkas
+20371=Status
+20372=Ukuran
+20373=Waktu tersisa
+20374=Tingkat transfer
+20375=Deskripsi
+
+//toolbar
+//Please try to make all inscriptions for the buttons on the toolbar shorter. 
+//A long inscription can make all buttons wider and they may cross the border 
+//of the dialog.
+20376=Tambah URL
+20377=Lanjutkan
+20378=Hentikan
+20379=Hentikan Semua
+20380=Hapus
+20446=Hapus Semua
+20381=Opsi
+20382=Penjadwal
+20383=Kabari Teman
+//tooltips for buttons
+t32790=Mulai/Lanjutkan mengunduh berkas yang dipilih
+t32791=Berhenti mengunduh berkas yang dipilih
+t32792=Hentikan semua unduhan
+t32793=Hapus berkas yang dipilih dari daftar
+t32794=Hapus semua berkas yang sudah selesai dari daftar
+t32795=Integrasi Browser/Sistem, Jenis Berkas, Proxy, Kata Sandi, dan lainnya
+t32798=Penjadwal dan antrian unduh
+t32788=Tulis surat kepada temanmu tentang IDM
+
+//Registration dialog
+138=Pendaftaran Internet Download Manager
+1326=Silakan masukkan detail pendaftaran Anda di kolom yang sesuai dan tekan tombol Oke
+1330=Nomor seri
+1327=Nama Depan
+1328=Nama belakang
+1329=Email
+1191=&Oke
+1201=&Cara Lisensi
+1080=&Batal
+
+//Download progress dialog
+103=Progres unduhan
+1154=(tidak diketahui)
+1178=<< Sembunyikan detail
+20426=<< Sembunyikan detail
+1158=Jeda
+20392=Jeda
+20424=Mulai
+20425=Tampilkan detail >>
+1300=Ukuran berkas
+1301=Diunduh
+1302=Tingkat transfer
+1303=Waktu tersisa
+1149=(tidak diketahui)
+1299=Status:
+1030=Menghubungkan...
+1305=Progres posisi mulai dan unduh berdasarkan koneksi
+1304=Kemampuan resume
+1175=(tidak diketahui)
+2=Batal
+20416=N.
+20417=Diunduh
+20418=Info
+20419=Ya
+20420=Tidak
+20421=%d jam %d menit
+20422=%d menit %d detik
+20423=%d detik
+
+130=Info Unduh Berkas
+1006=&Mulai Unduh
+1010=Jelajahi...
+1004=Unduh &Nanti
+1298=Deskripsi
+1173=Pratinjau
+1297=Kategori
+1296=Simpan Sebagai
+t1006=Mulai mengunduh berkas
+
+148=Masukkan alamat baru untuk mengunduh
+1182=Gunakan &otorisasi
+1184=Masuk
+1186=Kata Sandi
+1022=O&K
+
+//Options Dialog
+134=Konfigurasi Internet Download Manager
+1092=Oke
+20286=Umum
+20287=Koneksi
+20288=Unduh
+20289=Proksi
+20290=Login Situs
+20291=Dial Up
+20292=Suara
+20293=Umum
+20294=Koneksi
+20295=Unduhan
+20296=Proksi
+20297=Masuk
+20298=DialUp
+20299=Suara
+20300=Integrasi Peramban/Sistem
+20301=Jenis koneksi
+20302=Pengaturan unduhan bawaan
+20304=Nama pengguna dan kata sandi untuk server/situs
+20305=Pengaturan dial up
+20306=Pengaturan suara
+//General tab
+1056=Luncurkan Internet Download Manager saat startup
+1061=Otomatis mulai mengunduh URL yang ditempatkan ke clipboard
+1065=Integrasikan ke dalam Internet Explorer, MSN Explorer, dan browser berbasis IE
+1077=&Bawaan
+1169=Jenis berkas...
+1270=Otomatis mulai mengunduh jenis berkas berikut:
+t1056=Luncurkan Internet Download Manager pada sistem startup
+//Proxy tab
+1102=Gunakan Proksi HTTP
+1122=Proksi
+1123=Port
+1124=Nama Pengguna
+1125=Kata Sandi
+1107=Dapatkan dari IE
+1108=Gunakan Proksi FTP
+1126=Proksi
+1127=Port
+1128=Nama Pengguna
+1129=Kata Sandi
+1113=Dapatkan dari IE
+1116=Gunakan FTP dalam mode PASV
+1118=Gunakan Proksi HTTPS
+1133=Proksi
+1135=Port
+1137=Nama Pengguna
+1139=Kata Sandi
+1141=Dapatkan dari IE
+t1107=Coba untuk temukan proksi HTTP dalam konfigurasi Internet Explorer
+t1116=Gunakan protokol FTP dalam mode pasif (diperlukan di belakang firewall)
+//Connection tal
+1153=Jenis/Kecepatan Koneksi
+1306=Maksimal nomor koneksi
+1254=Batas unduhan
+//Downloads tab
+1049=Jelajahi
+1190=Ubah folder untuk kategori "Umum" pada terakhir dipilih
+1136=Direktori unduhan bawaan untuk kategori "Umum"
+1132=Simpan Ke...
+1236=Tampilkan dialog unduhan selesai
+1317=Pemeriksaan virus
+1318=Program pemindai virus
+1165=Jelajahi
+1319=Parameter baris perintah
+1316=Progres dialog unduh
+1315=Dialog
+1059=Tampilkan dialog mulai unduh
+1138=Direktori sementara
+1054=Jelajahi
+//Dial Up tab
+1313=Koneksi:
+1307=Pilihan koneksi
+1166=Terapkan
+1308=Pilihan panggil ulang
+1309=Upaya panggil ulang (nol jika tanpa henti):
+1310=Waktu antara upaya panggil ulang:
+1312=detik
+1311=kali
+
+//Sounds tab
+1320=Pilih suara untuk Internet Download Manager
+1172=Jelajahi...
+1091=Mainkan
+//Passwords tab
+20436=Situs/jalur
+20437=Pengguna
+20438=Kata Sandi
+1087=Baru
+1196=Edit
+1050=Hapus
+
+//File properties dialog
+135=Properti Berkas
+1325=Jenis:
+1324=Ukuran:
+1323=Simpan Ke:
+1082=&Jelajahi...
+1322=Masuk
+1289=Kata Sandi
+1321=Konfirmasi kata sandi
+1164=Buka
+1240=Percobaan terakhir
+1241=Hasil:
+
+100=Tentang Internet Download Manager
+1284=Situs Beranda:
+1285=Tim Pendukung:
+1286=Produk ini dilisensikan untuk:
+1181=Versi Tidak Terdaftar
+1161=Periksa &Pembaruan
+1185=&Pendaftaran
+1085=&Beli
+1262=Versi:
+t1187=Klik untuk mengunjungi situs resmi IDM
+t1189=Hubungi tim dukungan IDM
+t1161=Periksa pembaruan yang tersedia di www.internetdownloadmanager.com
+t1185=Daftar IDM dengan kunci pendaftaran Anda
+t1201=Klik untuk mengetahui cara mendapatkan lisensi untuk IDM
+t1085=Beli salinan IDM yang terdaftar
+
+150=Matikan
+1263=Internet Download Manager telah menyelesaikan pemrosesan antrian. Menurut pengatur jadwal komputer Anda dimatikan.
+1170=Matikan sekarang
+
+1163=Ya
+1088=Ya untuk semua
+1202=Tidak
+1051=Tidak untuk semua
+
+177=Penjadwal
+1331=Antrian Unduh
+1333=Unduh
+1332=Penjadwal
+1218=Mulai unduh di
+1219=Sekali di
+1221=Harian
+1062=Minggu
+1057=Senin
+1066=Selasa
+1069=Rabu
+1222=Kamis
+1223=Jumat
+1224=Sabtu
+1225=Berhenti mengunduh di
+1228=Matikan komputer setelah selesai
+1235=Paksa proses untuk berhenti
+1089=Terapkan
+123=Mulai sekarang
+1233=Berhenti
+1079=Tutup
+1227=Tutup modem setelah selesai
+1264=MByte
+1265=jam
+1266=Unduh tidak lebih dari
+1171=Bantuan
+1267=setiap
+1268=Tampilkan peringatan sebelum menghentikan unduh
+1271=Keluar dari Internet Download Manager setelah selesai
+1335=berkas pada saat yang sama
+t1229=Pindahkan item ke bawah
+t1230=Pindahkan item ke atas
+t1231=Hapus item dari antrian unduh
+t1232=Mulai antrian
+t1233=Hentikan antrian
+t1235=Gunakan opsi ini dalam keadaan darurat. Hal ini dapat menyebabkan aplikasi kehilangan data.
+
+184=Dial up
+1247=Menghubungkan ...
+1167=Memanggil Ulang
+
+186=Opsi Dial Up
+1336=Dial
+1237=Simpan kata sandi
+1288=Nama pengguna
+
+190=Unduh komponen IDM
+1=OK
+1258=Unduh komponen
+
+191=Ekspor daftar unduhan
+1259=Ekspor antrian unduhan
+1260=Ekspor berkas yang dipilih
+1261=Ekspor semua berkas
+
+192=Impor tautan ke IDM
+1168=Edit...
+1090=Hapus
+
+193=Otomatis mulai mengunduh ekstensi berikut:
+
+105=Tip Hari Ini
+1001=&Tampilkan Tip saat mulai
+1003=&Tip Selanjutnya
+107=Ti&p Hari Ini...
+108=Tahukah Anda...
+109=Berkas tip tidak ada di direktori yang ditentukan
+110=Kesulitan membaca berkas tip
+
+146=Login situs
+1337=Server/jalur
+1290=Konfirmasi kata sandi
+1287=Catatan: Ketik jalur hanya jika Anda memiliki nama login yang berbeda untuk direktori server yang berbeda.
+
+182=Pembaruan Cepat
+1295=Memeriksa versi baru
+								
+194=Batas unduhan terlampaui!                                                                  																					
+
+144=Versi baru Internet Download Manager tersedia
+1162=Perbarui sekarang
+1086=Batal
+
+//Zip preview dialog
+196=Pratinjau zip
+20254=Nama Berkas
+20255=Dikemas
+20256=Ukuran
+20257=Dimodifikasi
+
+//New category dialog
+204=Kategori IDM
+1174=Jelajahi...
+1291=Nama kategori
+1292=Otomatis masukkan ke dalam kategori ini jenis berkas berikut:
+1293=Catatan: ketik ekstensi berkas yang dipisahkan oleh spasi (mis. avi mpg mpeg)
+1239=Ingat jalur penyimpanan terakhir
+1294=Simpan unduhan berikutnya dari kategori ini ke folder berikut:
+
+
+// Menu
+m32771=Tugas
+32771=Tambahkan unduhan baru
+32809=Tampilkan target tujuan
+m32821=Ekspor
+32821=Ke berkas ekspor IDM
+32823=Ke berkas teks
+m32816=Impor
+32816=Dari berkas ekspor IDM
+32818=Dari berkas teks
+32772=&Keluar
+
+m32774=Berkas
+32774=Hentikan Unduh
+32775=Hapus
+32776=Unduh Sekarang
+
+m32778=Unduh
+32778=Jeda Semua
+32779=Hentikan Semua
+32794=Hapus Semua Yang Sudah Selesai
+32801=Penjadwal
+32781=Opsi
+
+m32825=Lihat
+32825=Sembunyikan kategori
+m32828=Atur berkas
+32828=Berdasarkan Urutan Penambahan
+32830=Berdasarkan Nama Berkas
+32832=Berdasarkan Ukuran
+32834=Berdasarkan Status
+32836=Berdasarkan Waktu yang Tersisa
+32838=Berdasarkan Kecepatan Transfer
+32840=Berdasarkan Deskripsi
+m32841=Bahasa
+
+m57670=Bantuan
+32811=Tutorial
+106=Tip Hari Ini...
+32813=Halaman Beranda IDM
+32784=Hubungi Dukungan IDM
+32787=Periksa pembaruan...
+32786=Tentang IDM
+32788=Beri tahu teman
+
+m32785=Pendaftaran
+32785=Pesan online
+32783=Pendaftaran
+//end menu
+
+
+//Strings & messages
+101=&Tentang IDM...
+32799=Membuka Port
+32800=Port Dibuka
+32802=Menghubungkan Perangkat
+32804=Perangkat Terhubung
+32806=Semua Perangkat Terhubung
+32807=Memulai Otentikasi
+32808=Pemberitahuan Otentikasi
+32810=Mencoba Ulang Otentikasi
+32812=Panggilan Balik Telah Diminta
+32814=Ubah Kata Sandi Telah Diminta
+32815=Fase Proyeksi Dimulai
+32817=Perhitungan Kecepatan Tautan
+32819=Otentikasi Diakui
+32820=Otentikasi Ulang Dimulai
+32822=Dikonfirmasi
+32826=Menunggu Modem Reset
+32827=Menunggu Panggilan Balik
+32829=Interaktif
+32831=Mencoba Ulang Otentikasi
+32833=Panggilan Balik Ditetapkan Oleh Penelepon
+32835=Kata Sandi Kedaluwarsa
+32837=Terhubung
+32839=Terputus
+
+20000=Pengunduhan berkas %s selesai.\n\nUnduhan %s (%I64d Bytes)\nBerkas disimpan sebagai %s
+20001=Fitur ini hanya tersedia dalam versi terdaftar.
+20002=Tidak dapat mengganti nama berkas yang diunduh dari folder temp (%s) menjadi %s. Berkas telah disimpan di folder temp.
+20003=Verifikasi kata sandi gagal! Silakan coba lagi.
+20004=Bidang kata sandi belum diisi!
+20005=Bidang nama pengguna belum diisi! Silakan coba lagi.
+20006=Bidang situs/jalur belum diisi! Silakan coba lagi
+20007=Apakah Anda yakin ingin menghapus informasi login untuk situs ini?
+20008=Daftar unduhan Anda memiliki berkas yang akan diunduh dari 
+20009=.\nTerapkan nama pengguna dan sandi untuk unduhan ini?
+20010=.\nUbah nama pengguna dan sandi unduhan ini menjadi \"anonim\" ?
+20011=Informasi login untuk situs/jalur ini sudah ada dalam daftar kata sandi Anda.\nInformasi login baru belum ditambahkan. Anda mungkin ingin mengedit yang sudah ada.
+20012=Anda telah mengubah \"bidang situs/jalur.\" Informasi login untuk situs/jalur baru ini sudah ada dalam daftar kata sandi Anda.\nInformasi login belum diubah. Anda mungkin ingin mengedit yang sudah ada.
+20013=Situs ini untuk sementara tidak tersedia!
+20014=Otorisasi diperlukan untuk situs/jalur ini. Anda dapat mengatur informasi login untuk unduhan ini dengan memilih item properti di konteks menu klik kanan. Atau tambahkan informasi login ke \"Opsi Kata sandi/Situs\" untuk menggunakan login/sandi ini setiap kali Anda mengunduh berkas dari situs ini.
+20015=Otorisasi proxy diperlukan untuk server proxy ini. Anda dapat mengubah nama pengguna dan sandi proxy di \"Opsi/Proxy\"
+20018=Tidak dapat mengunduh berkas ini.
+20019=Tidak dapat mengunduh berkas ini.
+20020=Memori tidak cukup untuk melanjutkan pengunduhan.
+20021=Tidak ada koneksi yang dapat dibuat karena mesin target secara aktif menolaknya. \nMungkin server layanan tidak aktif atau Anda memasang firewall yang memblokir Internet Download Manager. Jika Anda menggunakan firewall, pastikan pengaturannya mengizinkan IDM untuk mengunduh dari Internet.
+20022=Izin ditolak.
+20023=Tidak dapat menetapkan alamat yang diminta. Alamat yang diminta tidak valid dalam konteksnya.
+20024=Koneksi yang ada ditutup paksa oleh host jarak jauh. Ini biasanya terjadi jika aplikasi rekan pada host jarak jauh tiba-tiba berhenti, host di-boot ulang, atau host jarak jauh menggunakan \'hard close\'
+20025=Operasi soket gagal karena host tujuan sedang down. Operasi soket menemukan host yang mati. Aktivitas jaringan pada host lokal belum dimulai.
+20026=Kesalahan saat menghubungkan. Tidak ada host yang diketahui. Nama tersebut bukan nama host atau alias resmi, atau tidak dapat ditemukan di database yang ditanyakan.
+20027=Operasi soket dicoba ke jaringan yang tidak terjangkau. Ini biasanya terjadi karena perangkat lunak lokal tidak mengetahui rute untuk mencapai host jarak jauh.
+20028=Host tempat Anda terhubung mengalami crash dan reboot.
+20029=Operasi soket menemukan jaringan mati. Ini bisa menunjukkan kegagalan serius dari sistem jaringan (yaitu tumpukan protokol yang dijalankan oleh WinSock DLL), antarmuka jaringan, atau jaringan lokal itu sendiri.
+20030=Terlalu banyak koneksi jaringan yang terbuka. Harap tunggu beberapa unduhan selesai.
+20031=Terjadi kesalahan saat menghubungkan
+20032=Ukuran %s adalah %I64d byte.\nTidak ada ruang disk yang tersisa di drive \'%s\' tempat Anda ingin menyimpan berkas ini.\nJika Anda tidak mengosongkan sebagian ruang disk saat mengunduh, berkas akan disimpan dalam direktori sementara sebagai %s
+20033=Tidak ada ruang disk yang tersisa di drive \'%s\' untuk menyimpan bagian berkas yang diunduh.\nUntuk melanjutkan pengunduhan, kosongkan sebagian ruang disk atau ubah lokasi direktori sementara di \"Opsi->Simpan ke\" dan kemudian melanjutkan pengunduhan
+20034=Tidak dapat menemukan server %s
+20035=Tidak dapat menemukan server proxy %s
+20036=Tidak dapat terhubung ke %s:%ld
+20037=Tidak dapat terhubung ke server proxy %s:%ld
+20038=Tidak dapat menyambung ke %s:%ld\nWaktu sambungan habis
+20039=Tidak dapat menyambung ke server proxy %s:%ld\nWaktu sambungan habis
+20040=Terjadi kesalahan yang tidak diketahui saat menambahkan berkas atau menggabungkan bagian yang diunduh ke dalam satu berkas
+20041=Terjadi kesalahan yang tidak diketahui saat menggabungkan bagian yang diunduh ke dalam satu berkas
+20042=Tidak dapat membuka berkas lokal untuk menulis saat menggabungkan bagian yang diunduh ke dalam satu berkas
+20043=Tidak bisa mendapatkan ukuran bagian berikutnya saat menggabungkan bagian yang diunduh ke dalam satu berkas
+20044=Kesalahan alokasi memori virtual saat menggabungkan bagian yang diunduh ke dalam satu berkas
+20045=Terjadi kesalahan penulisan fatal saat menggabungkan bagian yang diunduh ke dalam satu berkas
+20046=Terjadi kesalahan pembacaan fatal saat menggabungkan bagian yang diunduh ke dalam satu berkas
+20047=Terjadi kesalahan berkas atau registri yang tidak diketahui saat membangun kembali bagian lama yang diunduh
+20048=Tidak dapat terhubung ke server
+20049=Kesalahan membaca soket internet
+20050=Kesalahan penulisan soket internet
+20051=Waktu koneksi habis
+20052=Waktu koneksi habis
+20053=Waktu koneksi habis, memulai ulang...
+20054=Koneksi gagal, memulai ulang...
+20055=Terjadi kesalahan saat menerima data
+20056=Koneksi telah ditutup oleh server.
+20057=Tidak bisa login ke server ftp.
+20058=Tidak dapat menemukan berkas ini di server ftp.
+20059=Server FTP tidak mengizinkan koneksi.
+200660=Terjadi kesalahan saat menerima balasan server ftp.
+20061=Terjadi kesalahan saat menerima balasan server ftp: Format balasan tidak valid
+20062=Tidak dapat menemukan alamat IP untuk soket data dalam balasan pada perintah PASV.
+20063=Tidak dapat membuka soket internet.
+20064=Tidak dapat membuka soket data ftp
+20065=Tidak dapat mengikat alamat ke soket internet
+20066=Kesalahan selama panggilan untuk mendengarkan() soket data
+20067=Kesalahan saat panggilan untuk menerima() soket internet.
+20068=Tidak dapat mengirim perintah PORT.\nKesalahan saat panggilan ke getockname().
+20069=Perintah PORT gagal.
+20070=Kesalahan penulisan berkas terjadi saat menerima data dari soket Internet.\nAlasan yang mungkin: Disk penuh.
+20071=Tidak dapat membuka koneksi data karena server ftp tidak mendukung perintah PASV dan kotak centang \"Gunakan FTP dalam mode PASV\" di \"Opsi->Proxy/Firewall\" diaktifkan.
+20072=Ukuran berkas %s belum ditemukan di balasan server
+20073=Server mengirimkan balasan yang salah pada perintah restart.
+20074=Server mengirim lokasi baru dan nama berkas %s telah diubah menjadi %s.\n\nLanjutkan mengunduh ?
+20075=Memutuskan sambungan...
+20076=Unduh selesai, menambahkan semua bagian yang diunduh ke dalam satu berkas...
+20077=Koneksi opsional telah dibuat.
+20078=Menghubungkan...
+20079=Pilihan gagal
+20080=Terhubung OK.
+20081=Kesalahan penulisan berkas saat menerima data dari soket internet.
+20082=Recv() prosedur gagal
+20083=Koneksi telah ditutup oleh server.
+20084=Terputus.
+20085=Menunggu tanggapan...
+20086=Tanggapan OK
+20087=Menerima data...
+20088=Selesai.
+20089=Koneksi data: menghubungkan...
+20090=Koneksi data: OK
+20091=Siap menerima data
+20092=Memeriksa kemampuan urutan perintah: mengirim dua perintah secara bersamaan...
+20093=Memeriksa kemampuan urutan perintah: balasan pertama OK, menunggu balasan kedua...
+20094=Menerima info berkas...
+20095=Tidak dapat menemukan akhir dari string di balasan server.
+20096=Tidak dapat menemukan akhir dari string dalam balasan server ftp.
+20097=Mengirim BERHENTI
+20098=Server belum siap untuk pengguna baru.
+20099=Soket kontrol tersambung.
+10000=Mengirim nama pengguna...
+20101=Mengirim kata sandi...
+20102=Nama pengguna gagal
+20103=Nama pengguna OK
+20104=Kata sandi gagal
+20105=Kata Sandi Oke
+20106=Kirim perintah PASV...
+20107=Server tidak mendukung PASV.
+20108=PASV OK, mengekstrak alamat...
+20109=Ikat soket OK, mencoba panggil dengar()
+20110=Menerima...
+20111=Terima Oke
+20112=Mengirim perintah PORT...
+20113=PORT OK
+20114=Mengubah direktori kerja server...
+20115=CWD gagal.
+20116=CWD Oke
+20117=Koneksi gagal.
+20118=Mengirim TYPE ...
+20119=Perintah TYPE gagal.
+20120=TYPE OK.
+20121=Mengirim perintah REST...
+20122=REST gagal
+20123=REST Oke
+20124=Mengirim perintah RETR...
+20125=RETR gagal.
+20126=Mengirim perintah SIZE...
+20127=Mengirim perintah LIST.
+20128=LIST gagal.
+20129=LIST OK
+20130=SIZE gagal.
+20131=Tidak dapat menemukan ukuran berkas sebagai balasan.
+20132=SIZE OK
+20133=Soket kontrol tidak terhubung ke server.
+20134=Memulai ulang dari awal karena berkas lokal telah terhapus. Restart dari posisi arbitrer tidak didukung dalam kasus ini.
+20135=Koneksi dimulai ulang...
+20136=Mungkin server tidak mendukung pemipaan perintah.
+20137=Kemampuan urutan perintah: OK
+20138=Kirim HEAD...
+20139=Kirim GET...
+20140=Membangun kembali bagian berkas lama yang diunduh...
+20141=Menghubungkan...
+20142=Unduhan selesai. Total %I64d Bytes yang diunduh
+20143=Menerima data...
+20144=Koneksi opsional, menghubungkan...
+20145=Pengunduhan gagal. Diunduh: %I64d Total Bytes
+20146=Ukuran %s adalah %I64d byte.\nTidak ada ruang disk yang tersisa di drive \'%s\' untuk menyimpan bagian berkas yang diunduh.\nUntuk melanjutkan pengunduhan, kosongkan sebagian ruang disk atau hapus berkas ini dari daftar unduhan, ubah lokasi direktori sementara di \"Opsi->Simpan ke\", lalu coba lagi.
+20147=Tidak ada ruang disk yang tersisa di drive \'%s\'.
+20148=Tidak dapat membangun kembali potongan berkas yang diunduh.
+20149=Pengunduhan ini sudah selesai, jalur lokal belum diubah.
+20150=Tanggal terakhir berkas diubah telah diubah di server.\nApakah Anda ingin mengunduh berkas ini dari awal.
+20151=Anda menggunakan Internet Download Manager versi terbaru. Silakan periksa kembali di lain waktu untuk pembaruan.
+20152=Terjadi kesalahan saat menyimpan data yang dimasukkan, silakan coba lagi.
+20153=Terjadi kesalahan saat mengalokasikan memori virtual. Coba tutup beberapa aplikasi lalu tekan \'Coba lagi\'.
+20154=Membangun kembali
+20155=Nama server yang diminta valid, tetapi tidak memiliki data terkait yang benar yang sedang diselesaikan (Host itu sendiri ada, tetapi tidak dapat dijangkau secara langsung).
+20156=Berkas %s - diunduh %s (%I64d Bytes). Berkas mungkin belum diunduh sepenuhnya, karena ukuran berkas tidak diketahui.\nBerkas disimpan sebagai %s
+20157=Tidak ada item yang dipilih!
+20158=Pindah ke atas
+20159=Pindah ke bawah
+20160=Hapus item
+20161=Tidak dapat mengunduh berkas ini. Balasan server http tidak valid.
+20164=Pembaruan Cepat untuk IDM dari www.internetdownloadmanager.com. Menerima berkas baru...
+20166=Petunjuk Internet Download Manager
+20167=Pengunduhan telah dibatalkan oleh pengguna
+20168=Pembaruan cepat gagal, terjadi kesalahan saat mengunduh berkas IDM baru. Coba perbarui nanti.
+20169=Berkas yang diminta tidak ada.
+20170=\nApakah Anda ingin membukanya?
+20171=Berkas ini sudah ada di daftar unduhan Anda. Apakah Anda ingin menambahkan duplikat?
+20172=Server menjawab bahwa Anda tidak memiliki izin untuk mengunduh berkas ini.
+20173=Terjadi kesalahan saat membaca buku telepon.
+20174=Tidak dapat terhubung ke Internet.
+20175=Tidak dapat mengunduh berkas karena waktu habis
+20199=Tidak dapat mengubah integrasi Internet Download Manager ke Internet Explorer karena Anda mungkin tidak memiliki hak akses ke registri sistem
+20204=Berkas telah dipindahkan.
+20205=Berkas %s telah dipindahkan.
+20206=Membuka berkas yang diunduh
+20207=Unduh komponen IDM
+20211=Berkas %s akan disimpan sebagai %s. Berkas tersebut sudah ada di komputer Anda. Apakah Anda ingin mengganti berkas yang ada?\n\n Tekan \"YA\" untuk mengganti, \"TIDAK\" untuk menyimpan berkas dengan nama lain, \"BATAL\" untuk membatalkan penambahan berkas ke daftar unduhan Anda.
+20212=Berkas %s akan disimpan sebagai %s. Berkas tersebut sudah ada di daftar unduhan Anda. Apakah Anda mengonfirmasi menyimpan berkas dengan nama ini?\n\n Tekan \"YA\" untuk mengonfirmasi, \"TIDAK\" untuk menyimpan berkas dengan nama lain, \"BATAL\" untuk membatalkan penambahan berkas ke unduhan Anda daftar.
+20213=Impor ke IDM
+20214=Tidak dapat membaca tautan dari berkas atau berkas rusak
+20215=Bukan berkas ekspor IDM yang valid atau berkas rusak
+20216=Berkas tidak memiliki tautan web
+20217=Terjadi kesalahan yang tidak diketahui saat menjalankan operasi!
+20218=Tidak dapat mengunduh berkas ini, mungkin server ftp ini tidak mendukung resume unduhan. Apakah Anda ingin menambahkan berkas yang sama dan mengunduhnya dari awal?
+20219=Nama untuk menyimpan berkas adalah \"%s%s\", tetapi server mengirimkan nama berikut \"%s\". Apakah Anda ingin menyimpan berkas dengan nama berkas yang diterima dari server?
+20220=Pengunduhan berkas %s selesai.\nBerkas m3u ini berisi tautan web ke satu berkas mp3. Apakah Anda ingin mengunduh berkas mp3 ini?
+20221=Pengunduhan berkas %s selesai.\nBerkas m3u ini berisi satu atau lebih tautan web ke berkas mp3. Apakah Anda ingin menambahkan berkas mp3 ini ke daftar unduhan Anda?
+20222=berkas M3U diunduh.
+20225=Tidak dapat memulai program pemeriksaan virus.\n%s
+20226=Internet Download Manager telah menyelesaikan pemrosesan antrian. Menurut pengaturan penjadwal IDM akan menutup modem Anda.
+20227=Tutup modem
+20228=Tutup sekarang
+20229=Stop now
+20230=Batas unduhan terlampaui!
+20231=Data tidak valid
+20232=Nilai jam dalam \"Batas unduhan\" harus antara 1 dan 23. Harap perbaiki atau hapus centang pada kotak \"Batas unduhan\".
+20233=Apakah Anda ingin mengunduh tutorial (sekitar 60 KB) dari situs utama IDM?
+20234=Apakah Anda ingin mengunduh dan memasang berkas bantuan IDM (sekitar 200 KB) dari situs utama IDM ?
+20235=Tidak dapat menemukan HHCtrl.ocx untuk menampilkan berkas bantuan!
+20236=Bantuan IDM
+20237=Ukuran berkas telah diubah di server.\nIni akan diunduh dari awal.
+20238=Tidak dapat membuat koneksi melalui server proxy.
+20239=Terjadi kesalahan saat membuat koneksi keamanan ke %s.
+20240=Terjadi kesalahan saat mengenkripsi pesan permintaan.
+20241=Terjadi kesalahan saat memuat keamanan dll. Tidak dapat membuat koneksi https.
+20245=Opsi Internet Download Manager
+20246=Unduh selesai
+20247=Pengunduhan gagal
+20248=Pemrosesan antrian dihentikan/selesai
+20249=Pemrosesan antrian dimulai
+20250=Acara
+20251=Berkas suara
+20252=Tidak dapat menyalin berkas suara yang dipilih ke folder suara IDM!
+20253=Anda memiliki %d hari lagi untuk menggunakan Internet Download Manager. Apakah Anda ingin mendaftarkan salinan IDM Anda sekarang?
+20258=Semua Unduhan
+20259=Belum Selesai
+20260=Selesai
+20261=Program
+20262=Musik
+20263=Video
+20264=Permainan
+20265=Dokumen
+20266=Tambahkan kategori
+20267=Hapus
+20268=Properti
+20269=Apakah Anda benar-benar ingin menghapus kategori \"%s\" dari daftar kategori IDM?
+20270=Menghapus kategori dari daftar kategori IDM
+20271=Menambahkan kategori ke daftar kategori IDM
+20272=Mengedit properti kategori
+20273=Silakan isi kolom \"Nama kategori\".
+20274=Folder \"%s\" tidak ada.\r\nApakah Anda ingin membuat folder?
+20275=Tidak dapat membuat folder!\r\n%s
+20276=Sembunyikan kategori
+20277=Tampilkan kategori
+20278=Pilih direktori
+20279=Umum
+20280=Apakah Anda ingin menempatkan semua unduhan lama ke kategori ini menurut jenis berkas? Berkas tidak akan dipindahkan pada hard drive, tetapi akan dikaitkan dengan kategori unduhan yang ditentukan.
+20281=Apakah Anda ingin menempatkan semua unduhan lama dengan jenis berkas \"%s\" ke dalam kategori ini? Berkas tidak akan dipindahkan ke hard drive, tetapi akan dikaitkan dengan kategori ini.
+20282=Kategori IDM
+20283=IDM mendapat kesalahan \"Access ditolak\" saat merakit bagian berkas yang diunduh. Ini mungkin terjadi karena beberapa aplikasi seperti program anti virus atau firewall membuka berkas, tetapi tidak menutupnya dengan benar, atau Anda mencoba membuka berkas saat sedang mengunduh. Anda harus memulai ulang komputer Anda dan kemudian klik tombol lanjutkan untuk merakit berkas.
+20284=Direktori unduhan bawaan untuk kategori \"%s\"
+20285=Ubah folder untuk kategori \"%s\" pada yang terakhir dipilih
+20307=- Pilih koneksi internet Anda -
+20319=Lainnya
+20320=Tentang IDManager
+20321=Pulihkan
+20322=Keluar
+20323=Hubungi kami
+20324=Bantuan
+20325=Pesan online
+20326=Pendaftaran
+20327=Hentikan Unduh
+20328=Hapus
+20329=Lanjutkan Unduh
+20330=Properti
+20331=URL yang dimasukkan tidak valid. Mohon koreksi.
+20332=Pengunduhan ini belum selesai. Lanjutkan dengan menghapus?
+20333=Tidak dapat menemukan konfigurasi proxy di Pengaturan Internet Explorer
+20334=Berkas dengan URL ini telah diunduh oleh Internet Download Manager. Apakah Anda ingin mengunduhnya lagi?
+20335=Berkas dengan URL ini sudah ada di daftar Anda dan menunggu unduhan selesai. Apakah Anda ingin melanjutkan berkas?
+20336=Terlalu banyak berkas dengan nama ini. Harap hapus atau ubah nama lokal
+20337=Silakan masukkan nama login.
+20338=Tidak dapat menemukan Peramban terkait
+20339=Tidak dapat menemukan aplikasi Pembaruan Cepat.
+20340=Silakan masukkan nama pendaftaran.
+20341=Nomor pendaftaran yang dimasukkan salah.
+20343=Silakan masukkan nama depan Anda
+20344=Silakan masukkan nama belakang Anda
+20346=Silakan masukkan email Anda
+20347=Silakan masukkan Nomor Seri Anda
+20348=Anda salah memasukkan Nomor Seri
+20349=Internet Download Manager telah terdaftar dengan Serial Number palsu. IDM keluar...
+20351=Internet Download Manager telah terdaftar dengan Serial Number palsu. IDM keluar...
+20352=Internet Download Manager belum terdaftar selama 30 hari. Masa percobaan telah berakhir dan IDM akan keluar...
+20353=Internet Download Manager belum terdaftar selama 15 hari. IDM keluar...
+20354=Kesalahan tidak diketahui selama
+20355=Tidak diketahui
+20356=Tambahkan ke antrian unduh
+20357=Hapus dari antrian
+20358=Mulai antrian
+20359=Hentikan antrian
+20360=Buka
+20361=Tanggal percobaan terakhir:
+20362=Hasil:\n
+20363=Pilih hanya satu berkas untuk dibuka!
+20364=Buka
+20365=sudah ada di komputer Anda. Apakah Anda ingin mengganti berkas yang ada?\n Tekan \"YA\" untuk mengganti, \"TIDAK\" untuk menyimpan berkas dengan nama lain, \"BATAL\" untuk membatalkan unduhan.
+20366=Unduh dari
+20367=Simpan ke
+20368=Apakah Anda benar-benar ingin menghapus semua unduhan yang sudah selesai?
+20384=Tampilkan drop target
+20385=Peringatan: Program komputer ini dilindungi oleh undang-undang hak cipta dan perjanjian internasional. Reproduksi atau distribusi program ini secara tidak sah, atau sebagian darinya, dapat mengakibatkan hukuman perdata dan pidana yang berat, dan akan dituntut semaksimal mungkin berdasarkan hukum.
+20386=Tidak dapat membuat folder %s, kode kesalahan = %ld\n
+20387=Kesalahan
+20388=Berkas
+20389=Semua Berkas
+20390=Rincian:\n
+20391=Selesai.
+20393=Unduhan selesai. Pemeriksaan virus sedang berlangsung...
+20394=AVI: Res. %dx%d, %d sampel per detik, Durasi %s
+20395=, Panjang:
+20396=, Judul:
+20397=, Artis:
+20398=, Album:
+20399=, Genre:
+20400=WAV: %d sampel per detik, %d bit per sampel, Panjang: %s
+20401=MPEG: Res. %dx%d, %.1f samp per detik, %d bit per samp
+20402=%s, total %ld berkas
+20403= Percobaan
+20404= Penuh
+20405=Panggil ulang %ld
+20406=Kesalahan Panggil RAS Tidak Terdefinisi.
+20407=Perubahan bahasa pada dialog utama hanya akan berlaku setelah memulai ulang IDM. Apakah Anda ingin memulai ulang IDM sekarang?
+20408=Dari %d:%02d hingga %d:%02d Anda mengunduh %d MB. Semua unduhan IDM akan dihentikan karena Anda telah melampaui batas unduhan yang ditetapkan di Penjadwal IDM (atau \'Opsi->Koneksi\')!
+20409=Dari %d:%02d hingga %d:%02d Anda mengunduh %d MB. Semua unduhan IDM telah dihentikan pada %d:%02d karena Anda telah melampaui batas unduhan yang ditetapkan dalam Penjadwal IDM (atau \'Opsi->Koneksi\')!\r\n\r\nSemua unduhan yang dihentikan akan dilanjutkan secara otomatis di %02d:%02d. Jika Anda ingin segera melanjutkan unduhan, ubah pengaturan di Batas Unduhan dan tekan Lanjutkan.
+20410=Selesai
+20411=Membangun kembali...
+20412=Memutuskan sambungan...
+20413=Berkas Teks
+20414=Berkas Ekspor IDM
+20415=Simpan sebagai...
+20427=Mohon jangan tutup dialog unduh saat IDM sedang merakit berkas, jika tidak data bisa rusak.
+20428=Pembaruan Cepat
+
+20429=Unduhan ditransfer ke IDM...
+20430=Klik 'Kembali' untuk kembali dan terus menjelajah.
+20431=IDM gagal memulai pengunduhan. Berkas yang dapat dieksekusi tidak ditemukan.
+
+20433=Peringatan
+20434=Pilih direktori
+20435=Program pemindai virus
+20439=Berkas Suara
+20440=selesai
+20441=Properti Berkas
+20442=Internet%20Download%20Manager%20-%20aplikasi%20sangat%20keren!!!
+20443=unduh%20dari%20
+
+//Please don't replace "English" to your local language, please just translate the "English" word
+20444=Harap gunakan bahasa Inggris
+
+20445=Tidak diketahui
+
+20447=Tampilkan ukuran normal
+20448=Tampilkan diperkecil
+20449=Jangan tampilkan
+
+//Please change XXX on the language you are translating IDM to.
+q1=Internet Download Manager mendeteksi bahwa Anda menggunakan Bahasa Indonesia sebagai bahasa standar Windows Anda. Apakah Anda ingin menginstal Bahasa Indonesia untuk IDM?
+
+20500=Silakan beli dan instal versi fitur lengkap IDM terlebih dahulu!
+1338=Silakan pilih bahasa untuk antarmuka pengguna IDM (Anda dapat mengubahnya nanti menggunakan item menu "Lihat->Bahasa")
+20501=Internet Download Manager belum terdaftar selama 15 hari. IDM keluar...
+20502=Sesuaikan...
+20503=Tanggal Ditambahkan
+20504=Tanggal Percobaan Terakhir
+20505=Simpan Ke
+20506=Perujuk
+33001=Sesuaikan Bilah Alat...
+33002=Sesuaikan Daftar URL...
+33004=Dengan Simpan Jalur
+33005=Dengan Rujukan
+33006=Berdasarkan Tanggal Percobaan Terakhir
+20507=Kolom...
+
+209=Kolom
+1339=Periksa kolom yang ingin Anda tampilkan dalam daftar ini. Gunakan tombol Pindah Ke Atas dan Pindah Ke Bawah untuk mengurutkan ulang kolom sesuka Anda.
+1160=Pindah Ke Atas
+1083=Pindah Ke Bawah
+1340=Tampilkan
+1048=Sembunyikan
+1053=Setel Ulang
+1341=Kolom yang dipilih seharusnya
+1342=lebar piksel
+
+//new category
+20508=Terkompresi
+
+//new dialog
+226=Maksimal nomor koneksi untuk server
+1348=Server
+
+1350=Jumlah koneksi maksimal bawaan
+1343=Jumlah koneksi maksimal
+1344=Baru
+1345=Hapus
+1346=Edit
+1347=Pengecualian:
+20509=Server
+20510=Nomor
+
+228=Unduh Semua Tautan dengan IDM
+20511=Jenis Berkas
+20512=Tautan Teks
+1234=Gunakan tautan teks sebagai deskripsi unduhan
+1055=Sembunyikan berkas HTML
+1060=Sembunyikan berkas berulang
+1353=Centang Semua
+1354=Hapus Centang Semua
+1352=Edit...
+1355=Silakan periksa tautan yang ingin Anda tambahkan ke daftar unduhan IDM, dan klik tombol OK.\r\nAnda dapat menunggu hingga IDM memeriksa dan mengisi semua jenis berkas.
+
+20513=Nama untuk menyimpan berkas adalah \"%s\", tetapi server mengirimkan jenis berkas berikut \"%s\", dan berkas tersebut harus disimpan sebagai \"%s\". Apakah Anda ingin menyimpan berkas dengan nama yang cocok dengan jenis berkas yang diterima dari server?
+
+//vers. 4.00
+20514=Unduh Ulang
+20515=Buka folder
+
+q2=\"%s\" (%s) ingin mengunduh berkas \"%s\".\n\nApakah Anda ingin IDM mengambil alih unduhan dari aplikasi ini?\nNantinya Anda dapat menonaktifkan atau mengaktifkan IDM untuk mengambil alih unduhan dari \"%s\" di IDM->Opsi->Umum
+
+20516=Protokol transmisi data \"%s\" tidak didukung oleh IDM saat ini. Atau mungkin kesalahan ejaan, oleh karena itu harap periksa ejaannya, dan coba lagi.
+20517=IDM menerima kesalahan \"Access Denied\" saat merakit bagian berkas. Ini mungkin terjadi karena berkas dibuka oleh aplikasi lain seperti perangkat lunak antivirus, atau Anda mencoba membukanya sendiri. Untuk merakit berkas ini, Anda perlu me-reboot komputer Anda, pilih berkas di IDM, dan tekan tombol resume.
+20518=Mohon daftarkan IDM sebelum memperbarui.\r\n Pilih item menu \"Pendaftaran->Pendaftaran\" dan masukkan informasi pendaftaran Anda. Kemudian pilih item menu \"Bantuan->Pembaruan Cepat\" untuk mulai memperbarui.
+20523=Menurut perjanjian lisensi kami yang telah Anda terima, Anda diizinkan untuk memperbarui Internet Download Manager secara bebas selama satu tahun setelah pembelian. Jika Anda ingin terus memperbarui IDM setelah jangka waktu ini, Anda harus berlangganan layanan pembaruan.\r\n Apakah Anda ingin melihat halaman berlangganan IDM?
+20519=Kunci untuk mencegah pengunduhan tidak boleh dimasukkan ke dalam kunci untuk memaksa pengunduhan. \r\n Silakan pilih kunci lain.
+20525=Kesalahan saat menghubungkan. Tidak ada host seperti itu yang diketahui. Nama tersebut bukan nama host atau alias resmi, atau tidak dapat ditemukan dalam basis data yang ditanyakan.\r\n\r\nTemukan kemungkinan alasan kesalahan di bawah ini:\r\n\r\n1. Anda memiliki aplikasi firewall di komputer Anda, dan Anda baru saja menginstal, mengganti, atau memperbarui versi Internet Download Manager Anda saat ini. Silakan periksa pengaturan firewall Anda dan pastikan bahwa IDM memiliki izin untuk mengakses Internet.\r\n\r\n2. Layanan yang menemukan server di Internet yang disebut Domain Name Service (DNS) mengalami masalah sementara, atau koneksi jaringan antara DNS dan komputer Anda terputus. Mungkin Anda perlu memulai ulang komputer Anda.\r\n\r\n3. Ada kesalahan ejaan dalam nama server. Silakan periksa ejaan Anda.\r\n
+20522=IDM tidak dapat menemukan %d berkas yang diperlukan untuk integrasi browser dan sistem. Apakah Anda ingin mengunduhnya?
+
+//Options->general
+1370=Deteksi aplikasi baru yang mencoba mengunduh berkas dari Internet
+1368=Sesuaikan kunci untuk mencegah atau memaksa mengunduh dengan IDM
+1367=Kunci...
+1375=Integrasikan IDM ke dalam browser:
+
+229=Menggunakan kunci khusus
+1361=Gunakan kunci berikut untuk mencegah pengunduhan dengan IDM untuk tautan apa pun:
+1067=Gunakan kunci berikut untuk memaksa mengunduh dengan IDM untuk tautan apa pun:
+1366=Periksa tombol kiri mouse yang diklik pada tautan bersama dengan tombol khusus yang ditekan untuk mengunduh tautan secara paksa
+1374=Catatan: Terkadang setelah Anda klik tautan unduhan, halaman web akan memuat yang memberi tahu bahwa unduhan dimulai dalam X detik. Dalam hal ini Anda perlu menghapus centang pada opsi berikut untuk memaksa mengunduh dengan IDM.
+
+//Download all links with IDM
+1356=Simpan Ke
+1357=Setiap berkas ke direktori sesuai dengan kategori berkas
+1358=Semua berkas dalam satu kategori
+1359=Semua berkas ke satu direktori
+1360=Jelajahi...
+
+//Options->Proxy
+1378=Jangan gunakan server proxy untuk alamat yang diawali dengan:
+1377=Pisahkan nama dengan spasi
+
+
+20526=Integrasi Jaringan Internet Download Manager
+20527=Internet Download Manager mendeteksi bahwa integrasi jaringan telah dihapus oleh beberapa aplikasi pihak ke-3. Apakah Anda ingin mengembalikan integrasi jaringan Internet Download Manager?
+20528=Internet Download Manager mendeteksi bahwa beberapa aplikasi pihak ke-3 telah merubah integrasi jaringan IDM. Hal ini terjadi kemungkinan akibat aplikasi jaringan yang baru diinstal, atau akibat aplikasi yang mengembalikan catatan registri secara keliru. Apakah Anda ingin mengembalikan integrasi jaringan Internet Download Manager?
+20529=Integrasi jaringan Internet Download Manager telah berubah. Kami sarankan Anda untuk memulai ulang komputer. Apakah Anda ingin memulai ulang sekarang?
+20530=Integrasi jaringan Internet Download Manager telah berubah. Anda perlu memulai ulang komputer, karena firewall Anda tidak dapat mendeteksi perubahan ini, dan Aplikasi Internet tidak akan berkomunikasi di Internet dengan benar sampai komputernya direstart \ r\n\r\nSilahkan menyimpan hasil kerja Anda dan tutup semua aplikasi sekarang, komputer akan memulai ulang setelah Anda menekan tombol OK.
+
+20531=Jika Anda ingin mengintegrasikan Internet Download Manager ke dalam aplikasi yang sedang berjalan, Anda perlu memulai ulang aplikasi, karena IDM tidak dapat mengintegrasi ke dalam aplikasi yang sedang berjalan \r\n\r\nSetelah mengintegrasikan IDM ke dalam aplikasi, Anda dapat mematikan opsi\"Deteksi Aplikasi Baru\" untuk kinerja yang lebih baik.
+20532= Deteksi Aplikasi Baru
+
+//v 4.01
+//Download All Links with IDM dialog
+1385=Sembunyikan gambar yang ada di halaman web ini
+//Options->General dialog
+1381=Gunakan integrasi browser tingkat lanjut
+20547=Peralihan antara integrasi browser dasar dan lanjutan mungkin memerlukan boot ulang sistem. Apakah anda yakin ingin melanjutkan?
+//new dialog
+230=Memeriksa Koneksi Internet
+1382=Cek
+20536=IDM sedang mengunduh halaman percobaan kecil untuk memeriksa koneksi Internet Anda. Harap tunggu beberapa detik
+20537=IDM sedang menguji Internet Explorer Anda. Harap tunggu beberapa detik saat Internet Explorer memuat halaman percobaan kecil
+//Problem report dialog
+232=Laporan Masalah Internet Download Manager
+20546=Kami telah membuat laporan konfigurasi yang dapat Anda kirimkan kepada kami. Silakan kirimkan informasi berikut untuk membantu kami memperbaiki masalah ini di versi IDM mendatang. Data ini bersifat teknis. Kami tidak mengumpulkan informasi pribadi Anda, dan kami akan memperlakukan laporan ini sebagai rahasia dan anonim.
+1386=Tambahkan komentar dan permintaan di bawah jika Anda mau
+1391=Jika Anda ingin pemberitahuan kapan masalah akan teratasi, silakan tambahkan email Anda di bawah ini
+20545=Mengirim data...\r\nHarap tunggu beberapa detik
+1390=Kirim
+
+//new messages
+20533=IDM telah mendeteksi bahwa Anda menggunakan server proxy di Internet Explorer. Apakah Anda ingin menggunakan pengaturan proxy yang sama di IDM?
+20534=Jalankan pertama Internet Download Manager
+20535=IDM telah mendeteksi bahwa Anda menggunakan jaringan DialUp Windows untuk menghubungkan modem Anda ke Internet. Apakah Anda ingin menggunakan pengaturan ini di IDM?
+
+20538=Tidak dapat mengunduh halaman percobaan. Ada kemungkinan integrasi jaringan Internet Download Manager berkonflik dengan aplikasi Internet lain atau firewall. IDM akan mematikan integrasi browser lanjutan untuk mengembalikan pengaturan awal Anda. Anda dapat mengaktifkan integrasi browser lanjutan nanti di IDM->Opsi->Dialog Umum
+20539=Anda perlu mem-boot ulang komputer Anda untuk memulihkan pengaturan asli. Silakan simpan pekerjaan Anda dan tutup semua aplikasi sekarang, komputer akan reboot setelah Anda menekan tombol OK.
+20540=Integrasi jaringan Internet Download Manager telah berhasil diinstal. Dalam kasus yang jarang terjadi, integrasi jaringan mungkin bertentangan dengan aplikasi Internet pihak ketiga yang baru diinstal. Jika Anda menemukan masalah dengan integrasi jaringan, harap hapus centang pada kotak \"Gunakan integrasi browser lanjutan\" di dialog IDM->Opsi->Umum
+20541=Anda telah mematikan integrasi browser lanjutan. Jika Anda menemukan masalah dengan integrasi browser lanjutan, kami ingin memperbaiki masalah untuk Anda. Untuk memperbaiki masalah, kami perlu mengumpulkan dan menganalisis beberapa informasi teknis tentang konfigurasi komputer Anda dan aplikasi Internet yang diinstal. IDM akan mengumpulkan dan menunjukkan informasi ini kepada Anda pada tahap berikutnya sebelum mengirimkannya ke departemen dukungan kami.\r\n\r\n Apakah Anda ingin IDM membuat informasi ini?
+20542=Menonaktifkan integrasi browser lanjutan
+20543=IDM sedang mencoba mengunduh halaman percobaan untuk memeriksa koneksi Internet Anda. Harap pastikan bahwa Anda terhubung ke Internet. Jika Anda memiliki firewall, pastikan IDM versi baru memiliki izin untuk mengakses Internet sebelum melanjutkan. Kemudian tekan tombol \"Cek\" di bawah, dan IDM akan mencoba mengunduh halaman pengujian lagi.
+20544=IDM telah mengubah integrasi jaringannya dan perlu memeriksa koneksi Internet Anda lagi. Jika Anda tidak terhubung ke Internet, harap sambungkan dan tekan tombol \"Cek\".
+20548=Integrasi jaringan Internet Download Manager telah diubah. Anda perlu me-reboot komputer Anda, karena Aplikasi Internet Anda tidak akan berkomunikasi di Internet dengan benar sampai reboot.\r\n\r\nSimpan pekerjaan Anda dan tutup semua aplikasi sekarang, komputer akan reboot setelah Anda menekan tombol OK.
+
+//v4.01 build 4
+20549=Versi Internet Download Manager ini memiliki fitur Integrasi Browser Tingkat Lanjut. Instalasi fitur ini mungkin memerlukan reboot sistem.\r\n\r\nSaat Integrasi Peramban Lanjutan diaktifkan, IDM dapat menangkap unduhan yang sebelumnya tidak mungkin ditangkap di IDM, atau di pengelola unduhan lainnya. Juga saat menggunakan integrasi, IDM dapat diintegrasikan ke dalam browser dan aplikasi Internet apa pun untuk mengambil alih unduhan FTP/HTTP Anda.\r\n\r\nDalam kasus yang jarang terjadi, integrasi ini mungkin bertentangan dengan aplikasi Internet pihak ketiga yang baru diinstal. Jika Anda menemukan masalah dengan integrasi jaringan, Anda dapat menghapus centang pada kotak \"Gunakan integrasi browser lanjutan\" di IDM->Opsi->Dialog Umum untuk menonaktifkannya.\r\n\r\nApakah Anda ingin menginstal Integrasi Peramban Lanjutan ?
+20550=Integrasi Browser Lanjutan telah berhasil diinstal!
+
+//menu "File->Redownload"
+33009=Unduh Ulang
+
+//new (since v4.00) toolbar buttons of the main window
+//Please try to make all inscriptions for the buttons on the toolbar shorter. 
+//A long inscription can make all buttons wider and they may cross the border 
+//of the dialog.
+20551=Mulai Antrian
+20552=Stop Antrian
+
+//v4.01 build 5
+20553=Pengelola Unduhan Internet secara otomatis menangkap tautan unduhan dari Aplikasi Internet lain ketika mencoba mengunduh berkas. Jika Anda TIDAK INGIN mendownload berkas ini dengan IDM, silakan buka dialog Opsi dengan mengklik tombol Opsi\r\n\r\n 1. Jika Anda tidak ingin mendownload berkas jenis ini dengan IDM, Anda dapat menghapus jenis berkas yang sesuai (ekstensi berkas) dari daftar jenis berkas yang diambil secara otomatis.\r\n\r\n 2. Jika Anda tidak ingin mengunduh berkas apa pun dari situs tertentu dengan IDM, Anda dapat menambahkan situs ini ke daftar situs yang dikecualikan.
+236=Tip IDM: Pengambilan tautan otomatis
+1393=Jangan tampilkan tip ini lagi
+1397=IDM memiliki mekanisme yang fleksibel untuk mengambil alih atau mengabaikan unduhan dari Aplikasi Internet lain. Apakah Anda ingin membaca lebih lanjut?
+1396=Baca selengkapnya
+
+//v4.02
+20569=Pesan kesalahan ini mungkin terjadi jika IDM digunakan pada beberapa komputer dengan Nomor Seri yang sama. Harap dicatat bahwa IDM memiliki lisensi per komputer. Untuk menggunakan IDM di beberapa komputer secara bersamaan, harap dapatkan lisensi untuk masing-masing komputer.
+20570=Tombol Kecil
+20571=Tombol Besar
+20572=Tombol Klasik
+
+//new main menu items
+m33001=Bilah Alat
+33510=Tombol Klasik
+34010=Tombol Kecil
+34011=Tombol Besar
+
+//a new (since 4.401) button on the Options dialog
+1371=Bantuan
+
+// The abbreviation of second, kilobytes, megabytes and gigabytes, 
+// it's used when denoting download speed measurement units, 
+// e.g. KB/sec --- kilobytes per second, etc.
+20575=detik
+20576=GB
+20577=MB
+20578=KB
+20579=Bytes
+
+//v4.03
+20588=Tidak dapat membangun kembali berkas yang diunduh. Urutan pembuatan bagian yang diunduh rusak. Temukan kemungkinan penyebab masalah ini di bawah ini.\r\n\r\n 1. Komputer tiba-tiba mati karena pemadaman listrik saat mengunduh/memasang bagian berkas.\r\n 2. Aplikasi atau pengguna lain mematikan Internet Download Manager proses selama pengunduhan/perakitan bagian-bagian berkas. Harap perhatikan bahwa mungkin perlu beberapa saat untuk membangun kembali berkas besar. Jangan khawatir, bersabarlah, dan tunggu sampai IDM selesai dirakit. Tolong jangan hentikan proses Internet Download Manager dari Task Manager.\r\n\r\nJika kejadian ini tidak terjadi, kirimkan berkas %s (jika ada) ke departemen dukungan Internet Download Manager untuk analisis.
+
+
+//v 5.00 --- grabber
+1429=< Kembali
+1430=Berikutnya >
+
+1405=Tambahkan Filter
+1421=Tambahkan Filter
+1437=Cari berkas di situs ini saja
+1459=Mulai download semua berkas yang cocok sekaligus
+1471=Anda dapat menjelajahi situs terlebih dahulu, memeriksa berkas yang Anda butuhkan, dan mengunduhnya di jendela utama Grabber, atau menambahkannya ke daftar utama IDM. Opsi ini segera mengunduh semua berkas yang dieksplorasi.
+1515=Download berkas berikut (tipe berkas)
+1516=Jangan download berkas berikut (tipe berkas)
+1480=Tidak kurang dari
+1482=Tidak lebih dari
+1483=Unduh berkas yang terletak di dalam jalur/domain berikut saja :
+1486=Jangan mengunduh berkas yang terletak di dalam jalur/domain berikut:
+1517=Unduh jika ukuran berkas adalah
+1488=Gunakan titik koma ( ; ) untuk memisahkan entri.
+
+241=Grabber Situs IDM
+1446=Berkas yang Diunduh:
+1448=Berkas Ditemukan:
+1450=Halaman web yang diproses:
+
+244=Filter
+1423=Tambah
+1424=Edit
+1425=Hapus
+
+245=Filter
+1426=Nama
+1427=Mask
+
+1414=Nama Proyek Grabber
+1510=Halaman/alamat awal
+1439=Gunakan otorisasi
+1441=Masukkan login dan password secara manual pada halaman web berikut:
+1511=Template proyek
+1470=Jika Anda memilih template proyek, wizard akan membuat pengaturan proyek yang diperlukan untuk template yang dipilih pada langkah berikutnya. Perhatikan bahwa Anda selalu dapat mengubah pengaturan apa pun secara manual.
+
+1514=Gunakan subfolder relatif asli
+1468=Konversikan tautan dalam berkas html yang diunduh ke berkas lokal untuk penjelajahan offline
+1469=Timpa berkas yang ada
+1436=Tambahkan berkas yang dicentang ke daftar utama IDM dan untuk mengunduh antrian saat menutup grabber
+
+262=Pengaturan Grabber IDM
+1518=Gunakan teks tautan sebagai deskripsi unduhan saat menambahkan berkas ke daftar utama IDM
+1466=berkas untuk dijelajahi secara bersamaan (1 sampai 10)
+1467=berkas yang akan didownload secara bersamaan (1 sampai 10)
+1509=Harap diperhatikan bahwa server web dapat menolak permintaan jika Anda mengatur sejumlah besar berkas untuk dijelajahi (unduh) pada saat yang bersamaan.
+
+1416=Jangan jelajahi direktori induk
+1490=level dalam situs dasar
+1435=Jelajahi seluruh situs
+1445=Jelajahi jumlah level tautan yang ditentukan:
+1491=level di situs lain
+1474=Jelajahi halaman web hanya dalam jalur/domain berikut:
+1476=Jangan jelajahi halaman web dalam jalur/domain berikut:
+1512=Pada langkah ini Anda harus menentukan halaman web apa yang akan dijelajahi untuk menemukan berkas yang diperlukan. Pada langkah selanjutnya, Anda akan dapat mengatur jenis berkas, lokasi, dan filter lainnya.
+1489=Berapa jumlah level tautan?
+1493=Jelajahi semua situs dalam domain utama
+1494=Abaikan jendela popup
+
+268=Nama Template
+1508=Silakan masukkan nama untuk template grabber
+
+269=Menyimpan proyek IDM Grabber
+1507=Simpan proyek ini dengan nama berikut
+1513=Jangan tampilkan dialog ini jika namanya unik
+
+270=Muat proyek
+
+32811=Tutorial
+34022=Bantuan Grabber
+      
+
+m1458=Proyek
+1458=Baru
+1438=Muat...
+1442=Simpan
+34020=Simpan pengaturan saat ini sebagai template
+m34013=Proyek Terbaru
+34013=Daftar Proyek Terbaru
+m1457=Opsi
+1457=Pengaturan Grabber
+34021=Jadwalkan proyek
+
+t1398=Mulai Jelajahi Situs
+t1401=Berhenti Jelajahi Situs
+t1353=Periksa Semua Berkas
+t1354=Hapus centang Semua berkas
+t1432=Mulai Unduh berkas yang diperiksa
+t1433=Berhenti mengunduh berkas yang diperiksa
+t1434=Tambahkan berkas yang diperiksa ke daftar IDM utama dan ke antrian download
+
+
+20580=Pengaturan khusus
+20581=Semua Gambar situs web
+20582=berkas audio dari halaman awal dan dari satu level berikutnya
+20583=Semua berkas Video dari situs web
+20584=Semua berkas situs web kecuali halaman web dan gambar
+20585=Seluruh situs web
+
+20589=Konten web
+20590=Lanjutan
+20591=Proyek Grabber
+20592=Pengambil IDM
+20593=Silakan masukkan halaman/alamat awal
+20594=Halaman/alamat awal
+20595=Silakan masukkan login dan kata sandi atau hapus centang pada kotak centang \"Gunakan Otorisasi\"
+20596=Silakan masuk ke halaman login manual atau hapus centang pada kotak yang sesuai
+20597=Halaman login manual
+20598=Tidak ada berkas yang diperiksa!
+20599=%ld berkas telah ditambahkan ke daftar IDM utama.
+20600=Tidak dapat menambahkan berkas. Terlalu banyak berkas yang diperiksa. Silakan unduh dalam proyek ini dengan mengeklik tombol bilah alat \"Unduh yang Dicentang\".
+20601=Tidak dapat menambahkan berkas baru. Daftar IDM utama berisi terlalu banyak berkas dan dapat memperlambat IDM. Harap hapus beberapa berkas dari daftar utama.
+
+20602=Nama ini sudah dipesan. Silakan pilih nama lain untuk template Anda.
+20603=Template dengan nama seperti itu sudah ada. Apakah Anda ingin mengganti template?
+20604=Simpan proyek grabber?
+
+//right click menu
+20605=Buka proyek
+20606=Jadwalkan proyek
+20607=Hapus proyek
+
+20608=Silakan tutup proyek grabber yang sedang berjalan terlebih dahulu.
+20609=Jadwalkan proyek grabber
+20610=Segera hadir!!!\r\n\r\nPeriksa fitur ini di versi IDM berikutnya
+
+//displayed statuses
+20611=Menjelajahi situs
+20612=Mengunduh
+20613=Selesai
+20614=Berhenti
+
+20615=Proyek dengan nama \"%s\" sudah ada. Silakan pilih nama lain.
+20616=Tidak ada proyek yang disimpan dari grabber IDM
+20617=Silakan pilih nama proyek!
+20618=Apakah Anda ingin menghapus proyek grabber \"%s\"?
+20619=Jumlah berkas yang dieksplorasi pada waktu yang sama tidak valid. Harap tetapkan nomor yang benar.
+20620=Jumlah berkas yang diunduh secara bersamaan tidak valid. Harap tetapkan nomor yang benar.
+20621=Tidak dapat membuka berkas \"%s\"\r\n\r\n%s
+20622=Apakah Anda ingin mengunduh dan menginstal berkas bantuan IDM Grabber (sekitar 100 KB) dari situs utama IDM ?
+20623=Tidak dapat memuat proyek.\r\nKesalahan alokasi memori.
+20624=Tidak dapat memuat proyek.\r\nBerkas proyek grabber rusak atau versinya tidak dapat diterima.
+20625=Berkas proyek grabber rusak. Beberapa berkas belum dimuat
+20626=Tidak dapat memuat template.\r\nBerkas informasi template rusak atau versinya tidak dapat diterima.
+20627=Memuat template grabber
+20628=Menyimpan template grabber
+20629=Menyimpan proyek grabber
+20630=Memuat proyek grabber
+      
+//step dialogs captions
+20631=Pengambil Situs IDM. Langkah %d --- %s
+20632=Atur halaman awal
+20633=Simpan berkas ke
+20634=Atur filter penjelajah
+20635=Atur filter berkas
+
+20636=Halaman login manual
+20637=Tekan tombol OK saat proses login selesai
+20638=Oke
+20639=Batal
+
+//v4.04
+20640=Jika Anda berencana untuk mengambil alih unduhan hanya dari Internet Explorer, maka Anda tidak memerlukan fitur ini, dan Anda harus menjawab \"Tidak\".
+
+//v4.06
+20641=Menghubungkan ke
+20642=Bidang:
+1534=Simpan kata sandi ini di daftar kata sandi IDM
+1536=Ketik nama pengguna dan kata sandi Anda.
+1537=Nama pengguna:
+1538=Kata sandi:
+
+//v4.07
+
+280=Unduhan batch
+1553=Dimungkinkan untuk menambahkan sekelompok nama berkas berurutan seperti img001.jpg, img002.jpg, dll., img100.jpg ke antrian unduhan IDM. Gunakan wildcard asterisk untuk pola nama berkas. \nMisalnya: http://www.internetdownloadmanager.com/pictures/img*.jpg
+1540=Angka
+1541=Huruf
+1556=Dari:
+1557=Ke:
+1547=Ukuran wildcard
+1555=Ganti tanda bintang dengan
+1558=Berkas pertama:
+1559=Berkas kedua:
+1560=Berkas terakhir:
+
+20643=Periksa semua berkas yang dipilih
+20644=Hapus centang semua berkas yang dipilih
+
+1552=Ganti nama berkas menggunakan wildcard asterisk untuk pola nama berkas:
+
+34024=Tambah banyak unduh sekaligus
+
+20645=Tidak ada wildcard asterisk di URL untuk membuat daftar berkas unduhan!
+20646=Unduhan batch
+20647=Terlalu banyak berkas. Jumlah berkas tidak boleh lebih dari 1000. Harap pilih rentang \"dari : hingga :\" lainnya.
+20648=Simpan ke direktori/kategori
+
+//v5.00 beta
+
+20574=Grabber
+20649=Silakan masuk ke halaman logout atau hapus centang pada kotak yang sesuai
+
+20554=Semua Berkas
+20555=Berkas Gambar
+20556=Berkas Video
+20557=Berkas Audio
+20558=Berkas yang Dapat Dieksekusi
+20559=Berkas Terkompresi
+20560=Berkas Dokumen PDF
+
+20561=Jangan gunakan filter pengecualian
+
+20562=Peta Situs
+20563=Pengaturan
+
+20564=Nama filter
+20565=Mask
+20566=Silakan isi nama filter
+20567=Silakan isi mask
+20568=Filter dengan nama \"%s\" sudah ada. Silakan pilih nama lain.
+
+20650=Mohon tunggu...
+20651=Menghapus Berkas sementara
+20652=Menyimpan proyek Grabber
+20653=Menghapus proyek Grabber
+20654=Menerapkan perubahan
+20655=Memuat proyek Grabber
+20661=Memeriksa perubahan
+20662=Mengunduh halaman login manual
+
+20656=Tidak cukup ruang kosong pada drive %s untuk memproses proyek grabber. Harap kosongkan beberapa ruang dan coba lagi.
+20657=Tidak cukup ruang kosong di drive %s untuk membuka proyek grabber. Harap kosongkan beberapa ruang dan coba lagi.
+20658=Tidak dapat membuka proyek. Beberapa Berkas proyek telah rusak atau dihapus.
+
+20659=Lengkapi halaman awal dengan semua gambar, gaya, dan skrip untuk penjelajahan offline
+20660=Lengkapi halaman awal
+
+20663=Tidak dapat mulai mengunduh halaman login manual. Silakan periksa sintaks URL.
+
+33010=Jalankan site grabber
+
+1563=Tekan tombol Lanjutan untuk mengaktifkan login manual atau menonaktifkan halaman logout
+1561=Jangan buka halaman keluar:
+1564=Banyak situs memiliki halaman keluar yang tidak boleh dibuka oleh Grabber. Anda dapat menggunakan wildcard asterisk di sini untuk menentukan pola untuk halaman logout yang berbeda.
+1571=Sembunyikan Berkas duplikat yang ditemukan di lokasi berbeda
+1565=Memproses JavaScript
+1567=Gunakan opsi ini dengan hati-hati. Apa risikonya?
+1573=Cari Berkas di cache IE sebelum mengunduh
+1568=Gunakan asterisk sebagai pola wildcard. Gunakan koma tanpa spasi untuk memisahkan entri
+
+//grabber dlg tree
+20664=Semua Berkas
+20665=Tampilan Tautan
+20671=Tampilan Folder
+20667=Situs lain
+20668=situs
+
+20669=Kecualikan filter
+20670=Sertakan filter
+
+t34023=Tampilkan statistik grabber
+271=Statistik Grabber IDM
+1574=Status:
+1575=Halaman web diproses
+1576=Sederhana
+1577=Lanjutan
+1578=Berkas
+1579=Jumlah
+1580=Dijelajahi
+1581=Cocok
+1582=Diunduh
+
+//v5.00 build 3
+20672=Tampilan Gambar Kecil
+20673=Tidak ada berkas yang diunduh
+
+20674=Tidak Ditemukan
+20675=Terlarang
+20676=Kesalahan
+
+//v5.01
+284=Jadwalkan proyek grabber
+1583=Satu kali menjelajah/mengunduh
+1584=Sinkronisasi berkala
+1585=Hanya jelajahi
+1586=Jelajahi situs dan unduh berkas yang cocok
+1587=Unduh berkas yang diperiksa
+1588=Langkah 3. Jadwal
+1601=Langkah 2. Pilih tindakan
+1600=Langkah 1. Pilih jenis
+1593=Proyek:
+1590=Buka berkas berikut setelah selesai:
+1595=Mulai lagi setiap
+1597=jam
+1598=menit
+1599=Harian
+1602=Catatan: IDM harus berjalan di baki sistem pada waktu yang ditentukan untuk memulai proyek yang dijadwalkan
+20677=Untuk menggunakan penjadwal proyek, Anda harus menyimpan proyek terlebih dahulu. Simpan proyek sekarang?
+20678=Internet Download Manager telah selesai memproses proyek grabber. Menurut pengaturan penjadwal proyek, komputer Anda dimatikan.
+t33010=Jalankan pengambil situs
+t34021=Jadwalkan proyek
+t34025=Perbarui semua
+20679=Proyek grabber yang dijadwalkan tidak dapat dimulai pada %d:%02d karena proyek sedang berjalan saat ini.
+20680=Proyek grabber yang dijadwalkan tidak dapat dimulai pada %d:%02d karena pengaturan proyek sedang diedit saat ini.
+20681=Java-script tidak akan diproses untuk halaman web yang telah dieksplorasi/diproses. Jika Anda ingin memproses Java-script untuk halaman ini, Anda perlu menekan tombol toolbar \"Perbarui semua\" pada dialog Grabber Action.
+20682=Tombol pembaruan akan memperbarui proyek dengan (a) mulai menjelajahi situs dari halaman awal, (b) memperbarui berkas jika telah diubah di server, dan (c) mengunduh berkas baru.
+20683=Tombol pembaruan akan memperbarui proyek dengan (a) mulai menjelajahi situs dari halaman awal, (b) memperbarui berkas yang diunduh dan diperiksa jika telah diubah di server.
+20684=Perhatikan bahwa berkas lama yang telah ditemukan sebelum pembaruan tidak akan dihapus. Grabber akan mengurai semua halaman web di situs lagi, dan mungkin perlu beberapa saat.\r\n\r\nYakin ingin memperbarui proyek ini?
+
+//version 5.02
+20685=Ganti nama proyek
+20686=Minimalkan ke baki sistem
+20688=Pulihkan semua jendela unduhan
+20689=Anda dapat mengaktifkan dialog ini di \"Options->Downloads\"
+20690=Pengaturan IDM
+20691=Mengunduh %s (%I64d Byte)
+20692=Berkas mungkin belum diunduh sepenuhnya karena ukuran berkas tidak diketahui.
+20693=Ingat jalur ini untuk kategori \"%s\"
+20694=Unduhan selesai
+1610=Alamat
+1611=Berkas disimpan sebagai
+1606=Buka folder
+1607=Jangan tampilkan dialog ini lagi
+t1608=Jelajahi
+20695=Unduhan IDM
+1615=Abaikan perubahan waktu modifikasi berkas saat melanjutkan unduhan
+1613=Baca selengkapnya
+20696=IDM memeriksa rilis baru setiap 2 minggu dengan meminta halaman pembaruan dari situs asalnya. Jika firewall Anda memblokir permintaan pembaruan IDM dan menampilkan pesan peringatan yang sesuai, Anda harus memahami bahwa permintaan tersebut OK dan aman untuk mengizinkannya.
+1617=Alamat
+1619=Alamat:
+1618=Anda boleh menggunakan asterisk sebagai pola wildcard
+
+//Please note that the old menu item string changed from m32771=URL to m32771=Tasks
+//also strings 32771 and 148 have been changed
+
+//v 5.02 Build 2
+1621=Perbarui pemberitahuan
+290=Pemberitahuan pembaruan IDM
+20697=Tidak ada unduhan yang diminimalkan
+
+// v 5.02 Build 3
+1622=Catatan: Pengaturan ini tidak berhubungan dengan pemrosesan antrian
+
+// v 5.02 Build 6
+20698=Jelajahi
+
+// v 5.02 Build 10
+20586=Temukan di bawah ini kemungkinan alasan untuk kesalahan ini:\r\n\r\n 1. Koneksi Internet tidak ditemukan. Silakan periksa Koneksi Internet Anda.\r\n\r\n 2. Anda memiliki aplikasi firewall di komputer Anda, dan Anda baru saja menginstal, mengganti, atau memperbarui versi Internet Download Manager Anda saat ini. Silakan periksa pengaturan firewall Anda dan pastikan bahwa IDM memiliki izin untuk mengakses Internet.\r\n\r\n 3. Layanan yang menemukan server di Internet yang disebut Domain Name Service (DNS) memiliki masalah sementara, atau koneksi jaringan antara DNS dan komputer Anda rusak. Mungkin Anda perlu me-reboot komputer Anda.\r\n
+1570=Perujuk:
+
+// v 5.02 Build 12
+20587=Saat mencoba melanjutkan pengunduhan, Internet Download Manager mendapat tanggapan dari server yang tidak mendukung untuk melanjutkan pengunduhan. \r\nKemungkinan itu adalah kesalahan sementara dari server, dan Anda akan dapat melanjutkan berkas di lain waktu, tetapi saat ini IDM dapat mengunduh berkas ini dari awal. \r\n\r\n Apakah Anda ingin mengunduh berkas ini dari awal?
+
+// v 5.03
+20699=Jenis berkas yang tidak terdaftar dalam kategori lain
+20700=Anda menekan tombol "Download Later", tetapi sebenarnya IDM telah mendownload sebagian dari berkas tersebut. IDM selalu mulai mengunduh saat menampilkan dialog "Unduh Info berkas". Anda dapat menonaktifkan opsi ini di dialog "Opsi-> Unduhan"
+20701=Unduh nanti
+20702=Direktori sementara diperlukan untuk menyimpan bagian berkas selama pengunduhan.\n Jika Anda memiliki beberapa drive fisik di komputer Anda, Anda harus memilih drive fisik yang berbeda untuk direktori sementara dan folder "Simpan Ke" untuk perakitan berkas yang diunduh lebih cepat.
+20703=Otomatis masukkan ke dalam kategori \"%s\" jenis berkas berikut:
+20704=Simpan ke
+20705=Kategori, jenis berkas, folder
+1623=Mulai mengunduh segera saat menampilkan dialog "Unduh Info berkas"
+
+292=Menyalakan ulang komputer
+1627=Berhenti
+20706=Memulai ulang dalam %d detik
+20707=Mulai ulang sekarang
+
+// v 5.04
+//Options->File Types and Options->General changes (for basic integration)
+20708=Jenis berkas
+20709=Jenis berkas yang diunduh
+20711=Catatan: Opera dan browser lama berbasis Mozilla dapat diintegrasikan dengan IDM menggunakan plugin. Jenis integrasi ini tidak mendukung daftar pengecualian server untuk mencegah pengunduhan dengan IDM. Juga ketika Anda mengubah daftar jenis berkas, Anda perlu memulai ulang browser ini untuk memuat ulang plugin.\n Pembatasan ini tidak diterapkan jika Anda menggunakan \"Integrasi browser lanjutan\" pada tab \"Umum\".
+1632=Rincian
+1633=Tambahkan peramban...
+1634=Mengintegrasikan Kembali Semua
+20710=Catatan: Opera dan browser lama berbasis Mozilla dapat diintegrasikan dengan IDM menggunakan plugin. Jenis integrasi ini tidak mendukung kunci khusus untuk mencegah atau memaksa mengunduh dengan IDM dari browser ini.\n Jika Anda ingin mencegah atau memaksa mengunduh dengan IDM dengan menekan tombol khusus, Anda harus menggunakan \"Integrasi browser lanjutan\".
+
+//MessageBoxes
+20713=Integrasi peramban IDM
+20712=IDM tidak dapat menemukan browser %s di komputer Anda. Silakan temukan berkas yang dapat dieksekusi browser pada dialog berikutnya.
+20714=Integrasi ke dalam browser dengan menggunakan plugin telah gagal!
+20715=Plugin untuk browser %s telah dipasang.
+20716=Plugin untuk %s %s browser telah dipasang.
+20717=Plugin untuk browser %s telah dihapus.
+20718=Silakan restart browser untuk menerapkan perubahan.
+20719=Silakan temukan berkas eksekusi browser pada dialog berikutnya.
+20720=Tidak dapat menginstal ekstensi browser idmmzcc.xpi untuk Mozilla Firefox!
+20722=IDM telah mendeteksi bahwa browser %s %s adalah browser default di komputer Anda. \n Apakah Anda ingin mengintegrasikannya dengan IDM?
+20723=Tidak dapat menginstal ekstensi browser idmmzcc.xpi!
+20724=Peramban %s %s akan dibuka sekarang untuk memasang ekstensi untuk integrasi dengan IDM.\n Harap konfirmasi pemasangan ekstensi idmmzcc.xpi dari Tonec Inc. pada dialog peramban yang sesuai dan mulai ulang peramban setelah penginstalan.
+20725=Tidak dapat memasang plugin untuk browser %s %s!
+20726=IDM telah berhasil diintegrasikan ke dalam Internet Explorer.\n Anda perlu me-restart IE untuk menerapkan perubahan.
+20727=IDM mendeteksi bahwa %s %s browser juga telah diinstal di komputer Anda. \n Apakah Anda ingin mengintegrasikannya dengan IDM juga?
+20728=Browser yang dipilih akan dibuka sekarang untuk menginstal ekstensi untuk integrasi dengan IDM.\n Mohon konfirmasi instalasi ekstensi idmmzcc.xpi dari Tonec Inc. pada dialog browser yang sesuai dan restart browser setelah instalasi.
+20729=Plugin untuk browser yang dipilih telah diinstal.\n Harap mulai ulang browser untuk menerapkan perubahan.
+20730=IDM telah terintegrasi ke dalam Internet Explorer!
+20731=IDM tidak dapat menemukan browser ini dalam basis data integrasi dasar. Anda harus mencoba integrasi browser lanjutan untuk menangkap unduhan dari browser ini.
+20732=Tidak dapat menginstal plugin untuk browser dengan tipe integrasi yang sesuai!
+
+//new dialogs
+296=Integrasi browser
+1635=IDM telah mendeteksi browser tambahan berikut di komputer Anda. Silakan pilih browser yang ingin Anda integrasikan dengan IDM.
+297=Detail peramban
+1636=Tambahkan versi...
+20733=Peramban
+20734=Jenis integrasi
+20735=Jalan
+20736=Perpanjangan
+20737=Plugin
+
+//new menu item on main dlg popup menu and new button on Download complete dlg
+20738=Buka dengan...
+1639=Buka dengan...
+
+//
+20739=Temukan browser
+
+// v 5.05
+20740=IDM sedang mengunduh berkas ini sekarang!
+20741=Tautan unduhan duplikat
+298=Tautan unduhan duplikat
+20742=Tampilkan dialog dan tanyakan apa yang harus dilakukan.
+20743=Tambahkan duplikat dengan nama berkas bernomor
+20744=Tambahkan duplikat dan timpa berkas yang ada
+20745=Jika berkas yang ada sudah lengkap, tampilkan dialog unduhan lengkap; jika tidak, lanjutkan.
+1641=Berkas ini sudah ada di daftar unduhan Anda. Anda dapat memilih salah satu dari opsi berikut, atau tekan tombol Batal untuk melewati pengunduhan berkas ini
+1645=Ingat pilihan saya dan jangan tampilkan dialog ini lagi.\r\n Anda dapat mengubahnya di Opsi IDM->Download di lain waktu.
+1646=Jika tautan unduhan duplikat ditambahkan:
+
+20746=Internet Explorer, MSN Explorer, dan browser berbasis IE
+20747=Netscape 8.0 dan yang lebih baru
+20748=Netscape 7.xx dan 6.xx
+
+// v 5.05 build 2
+20749=Anda dapat menarik & melepaskan berkas ini
+//Dear translators, if you added "CompleteDlg.htm" topic to your help file, or you did not translate the help file and use the English version, please add and translate the phrase "Press F1 to read more" at the next line.
+20750=Seret ikon ini untuk memulai operasi seret dan lepas untuk berkas yang diunduh.
+//or 20750=Drag this icon to start the drag and drop operation for the downloaded file.\r\nPress F1 to read more.
+20751=Tarik dan lepas berkas yang diunduh
+
+// v 5.07
+1647=Lanjutkan
+20754=Anda harus memberikan izin administrator untuk menyimpan berkas di lokasi yang dipilih
+20755=Anda harus memberikan izin administrator untuk melakukan operasi ini
+
+// v 5.07 build 2
+20756=Program Instalasi IDM harus mem-boot ulang komputer Anda untuk mengganti berkas yang sedang digunakan. Tekan tombol OK untuk me-reboot komputer Anda sekarang
+20757=Konfirmasi reboot
+20758=Manajer unduhan Internet telah berhasil diinstal. Ini akan mulai secara otomatis dan mengambil alih unduhan dari browser Anda.
+20759=Anda juga dapat memulainya dari menu \"Start -> All Programs -> Internet Download Manager\".
+
+// v 5.07 build 6
+//new checkbox on Options->General
+1650=Jalankan modul untuk pemantauan klik di browser berbasis IE (MSN, Avant, dll)
+
+//v 5.08 build 5
+//new dialogs
+302=Membatalkan pengunduhan yang dimulai secara otomatis
+1651=Anda telah membatalkan unduhan ini dua kali.\n\n Jika IDM selalu mengambil alih unduhan ini karena kesalahan, Anda dapat menambahkan alamat ini atau situs ini ke daftar pengecualian IDM:
+1652=Jangan mulai mengunduh secara otomatis dari situs ini:
+1653=Jangan mulai mengunduh secara otomatis dari alamat ini:
+1655=Anda juga dapat mengedit daftar pengecualian pada tab \"Opsi->Jenis Berkas\" pada dialog opsi
+1654=Jangan tampilkan dialog ini lagi
+
+303=Daftar pengecualian alamat
+1661=Jangan mulai mengunduh secara otomatis dari alamat berikut:
+1659=Tampilkan dialog untuk menambahkan alamat ke daftar pengecualian untuk unduhan yang dibatalkan dua kali
+
+304=Tambahkan alamat ke daftar pengecualian
+
+//changes in "Options->File Types" dialog:
+1656=Edit daftar ...
+//label 1372 was divided into 2 parts
+1667=Jangan mulai mengunduh secara otomatis dari situs berikut:
+1662=(pisahkan nama dengan spasi)
+
+//v 5.08 build 7
+20763=Berkas yang diminta terlihat seperti halaman web html.\r\n\r\n Server mengirim halaman html pada permintaan kedua. Beberapa server tidak mengizinkan permintaan berkas yang sama dua kali. Karena opsi \"Mulai mengunduh segera saat menampilkan dialog Unduh Info berkas\" dimatikan, IDM mengirim permintaan pertama untuk mengetahui jenis dan ukuran berkas, dan mengirim permintaan kedua ketika Anda menekan \"Mulai unduh\". \r\n\r\n Coba aktifkan opsi \"Mulai unduh segera saat menampilkan dialog Unduh Info berkas\" di \"Opsi->Unduhan\", segarkan halaman di browser Anda, dan coba unduh berkas ini lagi .
+
+//v 5.09 build 4
+305=IDM tidak dapat mengambil alih unduhan
+20764=Beberapa situs tidak mengizinkan permintaan berkas yang sama dua kali.\r\n\r\n Browser membuat permintaan pertama berkas \"%s\" dan kemudian ketika IDM mencoba meminta berkas yang sama lagi, situs dikirim halaman web ke IDM alih-alih unduhan.\r\n\r\n Untuk mengambil alih unduhan ini, Anda dapat mengatur kunci khusus di \"Opsi IDM->Umum->Kunci...\". Tekan dan tahan tombol ini sambil mengklik tautan/tombol unduhan sehingga IDM dapat mengambil alih unduhan sebelum permintaan browser pertama. Perhatikan bahwa kunci \"Ins\" harus berfungsi untuk sebagian besar browser.
+
+//v 5.11
+//new scheduler dialog
+308=Penjadwal
+1675=Antrian baru
+1678=Hapus
+1684=Antrian
+20783=Antrian
+306=Jadwal
+1680=Jumlah percobaan ulang untuk setiap berkas jika pengunduhan gagal :
+307=Berkas dalam antrian
+1687=Batas unduhan
+20765=Batas unduhan
+20767=Antrian # %ld
+20768=Antrian unduhan utama
+20769=Antrian sinkronisasi
+
+20770=Buat antrian baru
+20771=Pindah ke antrian
+20772=Tambahkan ke antrian
+20773=Mulai sekarang
+20774=Berhenti
+20775=Edit antrian
+20776=Jadwal
+20777=Apakah Anda benar-benar ingin menghapus %s?
+20778=Mulai %s
+20779=Hentikan %s
+20780=Antrian IDM
+20781=Gambar di kolom \"Q\" menunjukkan berkas antrian mana yang dimiliki.\r\nAnda dapat memindahkan berkas dari satu antrian ke antrian lainnya dengan menu konteks berkas.\r\nUntuk informasi lebih lanjut tentang antrian, silakan merujuk ke Berkas bantuan Penjadwal .
+20782=Apakah Anda ingin mengunduh dan menginstal berkas bantuan \"Penjadwal dan Antrian IDM\" (sekitar 100 KB) dari situs utama IDM ?
+1685=Anda telah menjadwalkan waktu mulai pemrosesan antrian.\r\nHarap diperhatikan bahwa untuk memulai antrian pada waktu yang ditentukan, IDM harus berjalan pada waktu itu setidaknya di area notifikasi bilah tugas - baki (lihat gambar di bawah)
+310=Masukkan nama antrian
+1686=Masukkan nama antrian baru yang akan ditampilkan dalam daftar antrian
+
+//menu items
+m34026=Mulai antrian
+m34028=Hentikan antrian
+34029=Penjadwal dan antrian
+//tooltips for "Start queue" and "Stop queue" toolbar buttons.
+t34030=Mulai antrean unduhan utama, atau pilih antrean untuk memulai dari daftar tarik-turun
+t34031=Hentikan antrian download utama, atau pilih antrian untuk berhenti dari daftar drop-down
+
+//v 5.11 build 3
+1679=Mengunduh satu kali
+
+//v 5.11 build 5
+20786=Transfer data telah terputus dan server tidak mendukung \"resume\". Berkas ini hanya dapat diunduh dari awal.\r\n\r\n Ada beberapa cara yang mungkin untuk mengatasi masalah ini:\r\n 1. Kemungkinan server mengalami masalah sementara. Cobalah untuk melanjutkan unduhan ini di lain waktu.\r\n 2. Anda dapat membiarkan berkas ini sendiri dalam antrean (membuat antrean baru lainnya) dan memulai antrean. Dalam hal ini IDM akan mencoba mendownload kembali berkas dari awal hingga berhasil mendownload berkas tersebut.\r\n Untuk mencapai hasil terbaik, sebaiknya anda juga mengatur 1 koneksi untuk situs ini pada daftar exception di IDM \"Options- >Tab >Koneksi\".\r\n
+20784=Ekstensi \"IDM CC\" untuk browser berbasis Mozilla telah diubah dalam versi IDM ini. Anda perlu menginstal ulang ekstensi untuk menggunakan fitur baru. Apakah Anda ingin menginstal ulang ekstensi untuk browser %s %s?
+20785=Ekstensi \"IDM CC\" untuk browser berbasis Mozilla telah diubah dalam versi IDM ini. Anda perlu menginstal ulang ekstensi untuk menggunakan fitur baru. Apakah Anda ingin memasang ekstensi \"IDM CC\" baru untuk browser yang memiliki ekstensi \"IDM CC\" lama?
+
+//v 5.11 build 7
+//Items in context menu of browsers:
+20810=Unduh dengan IDM
+20811=Unduh video FLV dengan IDM
+20812=Unduh video FLV yang terakhir diminta
+20813=Pilih dari 10 video FLV yang terakhir diminta
+20814=Unduh video FLV yang terakhir diminta dengan IDM
+20815=Unduh video FLV dengan IDM dari 10 permintaan terakhir
+20816=Unduh semua tautan dengan IDM
+20817=Unduh konten video FLV dengan IDM
+
+20790=Menyimpan video FLV
+20791=Anda dapat menyimpan video FLV yang Anda suka dengan menggunakan item menu \"Unduh konten video FLV dengan IDM\" di menu konteks browser. \r\n\r\nMenu Konteks Peramban ditampilkan saat Anda mengeklik kanan laman web (tetapi tidak pada pemutar FLV) di peramban atau dengan menggunakan tombol menu konteks di papan ketik
+20792=Tidak dapat menemukan tautan video FLV di halaman web ini.\r\nMungkin browser Anda belum meminta berkas video. Anda harus menunggu sampai browser Anda membuat permintaan dan coba lagi. Dalam beberapa kasus, Anda hanya perlu menekan tombol \"Mainkan\" di pemutar web Anda.
+20793=Unduh dengan IDM
+20794=Unduh Semua dengan IDM
+20795=Tidak dapat menemukan tautan!\r\nJika halaman ini memiliki tautan, harap segarkan halaman ini, dan coba lagi. Jika masalah berlanjut, silakan hubungi tim dukungan IDM.
+20796=Tidak dapat menemukan tautan video FLV!
+20797=Tidak dapat memperoleh tautan video internet yang diminta oleh penjelajah!\r\nAnda (atau program penghapus spyware tertentu) telah menonaktifkan Objek Bantuan Peramban IDM di IE Anda. Silakan gunakan item menu \"Tools->Manage Add-ons->Enable or Disable Add-ons\" Internet Explorer. Kemudian temukan add-on \"IDMIEHlprObj Class\" dan aktifkan.
+20798=Tidak dapat terhubung ke antarmuka IDM yang memantau tautan video internet yang diminta oleh penjelajah.\r\nKemungkinan penyebabnya:\r\n - Anda tidak me-reboot komputer Anda setelah memutakhirkan IDM ke versi terbaru. Silakan reboot komputer Anda dan coba lagi\r\n - IDM tidak terpasang dengan benar. Silakan coba unduh IDM versi terbaru dari situs resminya dan coba lagi
+
+//new feature in "Options->General" dialog:
+1688=Edit...
+1689=Sesuaikan item menu IDM di menu konteks browser
+334=Internet Explorer dan berbasis IE
+335=Firefox dan berbasis Mozilla lainnya
+1696=Item menu yang dipilih akan muncul di menu konteks browser:
+20818=Mohon restart Internet Explorer untuk menerapkan perubahan
+20819=Mengubah menu konteks IE
+
+//v 5.11 b8
+20820=Keluar sekarang
+20821=Keluar dari IDM
+20822=Internet Download Manager telah menyelesaikan pemrosesan antrian. Menurut pengaturan penjadwal IDM akan keluar. Tetapi Anda memiliki unduhan lain yang sedang berlangsung yang akan dihentikan saat keluar. Tekan tombol Batal untuk tidak keluar.
+
+//v 5.11 build 9
+20823=Anda telah membatalkan unduhan serupa.\n\n Jika IDM selalu mengambil alih unduhan tersebut secara tidak sengaja, Anda dapat menambahkan situs ini atau pola untuk alamat serupa ke daftar pengecualian IDM:
+20824=Jangan tangkap unduhan dari alamat yang sama dengan menggunakan pola ini:
+336=Laporan untuk pengembang IDM
+1702=Anda dapat mengirim laporan ke pengembang IDM tentang unduhan yang diambil alih secara tidak sengaja untuk membuat solusi untuk situs ini di versi IDM yang akan datang
+1698=Menambahkan pengecualian berikut:
+1700=URL perujuk dari mana unduhan diambil alih secara tidak sengaja:
+1703=Anda dapat menggunakan wildcard asterisk untuk pola alamat.
+
+//v5.12
+20825=(Terbatas)
+1707=Gunakan Pembatas Kecepatan
+337=Pengaturan Pembatas Kecepatan
+1704=Selalu aktifkan Pembatas Kecepatan saat memulai IDM
+1705=Tampilkan kotak centang \"Gunakan Pembatas Kecepatan\" pada dialog \"Unduh kemajuan\"
+1706=Ingat pengecualian yang dibuat pengguna pada dialog \"Kemajuan Unduhan\" untuk menggunakan Pembatas Kecepatan secara independen apakah Pembatas Kecepatan global dihidupkan atau dimatikan
+1708=Kecepatan download maksimum untuk satu berkas
+1709=KByte/dtk
+1710=Catatan: Server internet dapat memutuskan koneksi jika kecepatannya terlalu terbatas! Oleh karena itu, tidak disarankan untuk menggunakan Speed Limiter untuk mengunduh dari server yang tidak mendukung fitur \"resume\".
+1711=Pengaturan Pembatas Kecepatan untuk unduhan individual
+m34033=Pembatas Kecepatan
+34033=Nyalakan
+34034=Matikan
+34035=Pengaturan...
+
+//v5.12 build 5
+20831=Jika video FLV di halaman web diputar oleh browser Anda, kemungkinan IDM tidak dapat mengaitkan tautan FLV ini dengan halaman web ini. Anda harus mencoba menggunakan item menu konteks browser \"Unduh video FLV dengan IDM dari 10 permintaan terakhir\".\r\n(Menu konteks browser dapat disesuaikan di \"Opsi IDM->tab Umum\")
+20830=Terjadi kesalahan CRC saat mengunduh. Itu berarti Anda memiliki beberapa masalah dengan hard disk Anda. Anda harus memindai disk untuk mencari kesalahan dengan menggunakan \"Pemeriksaan kesalahan\" pada properti disk->alat dialog Windows.
+
+//5.12b7
+20832=Anda harus memberikan izin administrator untuk mendaftarkan IDM bagi semua pengguna di komputer ini
+
+//5.12b8
+20837=Konfirmasi penghapusan unduhan
+20833=Unduhan yang dipilih tidak lengkap. Apakah Anda yakin ingin menghapusnya dari daftar unduhan IDM?
+20834=Unduhan yang dipilih belum selesai. Apakah Anda yakin ingin menghapusnya dari daftar unduhan IDM?
+20835=Ada unduhan yang tidak lengkap di antara yang dipilih. Apakah Anda yakin ingin menghapusnya dari daftar unduhan IDM juga?
+20836=Apakah Anda yakin ingin menghapus semua unduhan yang telah selesai dari daftar unduhan IDM?
+1715=Apakah Anda yakin ingin menghapus unduhan yang dipilih dari daftar unduhan IDM?
+1713=Hapus juga berkas yang telah diunduh sepenuhnya dari hard disk Anda. Hati-hati !
+
+//v5.14
+20850=video
+20851=audio
+20852=Unduh %s ini
+20853=Unduh %s ini dengan IDM
+20854=Tentang panel ini
+20855=Tutup
+20856=Ini adalah panel unduhan IDM.\r\n Dapat disesuaikan atau dimatikan pada \"IDM->Dialog Opsi->tab Umum\"
+20857=Panel unduhan IDM
+20858=Unduh %s dari halaman ini
+20859=Unduh %s dari halaman ini dengan IDM
+20860=Unduh semua
+20861=%ld %s berkas
+20862=berkas
+
+//new on Options->General
+1724=Panel Unduh IDM untuk pemain web di browser
+1727=IDM dapat menampilkan panel Download-nya pada web-player di browser ketika IDM mendeteksi permintaan multimedia dari web-player
+1728=Tampilan panel:
+1717=Modus penuh
+1718=Modus kecil
+1726=Tampilkan panel unduhan IDM untuk jenis berkas berikut:
+20863=Catatan: Jika Anda menghapus centang pada jenis berkas pada daftar di atas dan jika jenis berkas ada dalam daftar pada tab \"Opsi->Jenis File\", unduhan jenis berkas ini diambil oleh IDM secara otomatis dan tidak akan dimainkan di web-player. Jika Anda ingin mencegahnya, centang kotak di bawah ini:
+1720=Jangan ambil unduhan dari pemutar web secara otomatis
+
+//on Scheduler dlg
+1729=Mulai unduh saat memulai IDM
+
+20864=Anda dapat menggunakan integrasi ke dalam browser ini setelah mengaktifkan fitur \"Integrasi browser lanjutan\" pada dialog ini
+1731=Peringatan: Anda menjalankan IDM dengan hak Administrator. \r\n IDM tidak akan dapat mengambil alih unduhan dari browser dalam mode ini.
+20865=Firefox tidak dapat mentransfer unduhan berkas ke Internet Download Manager karena Anda telah mencentang kotak \"Jalankan program ini sebagai administrator\" pada dialog properti berkas windows IDMan.exe. \r\n\r\nSilakan buka folder IDM, klik kanan pada \"IDMan.exe\", pilih item menu \"Properties\", alihkan ke tab \"Compatibility\", dan hapus centang dari \"Run this program sebagai administrator\" kotak centang.
+
+//v5.16
+20867=Tidak dapat melanjutkan pengunduhan berkas:
+20868=IDM sedang menunggu alamat baru untuk melanjutkan berkas:
+20869=Ada kemungkinan bahwa alamat berkas tidak valid lagi atau sesi Anda telah kedaluwarsa.
+20870=Apakah ini alamat baru untuk unduhan Anda yang kedaluwarsa?
+20872=Segarkan alamat unduhan
+20873=IDM sedang menunggu alamat baru untuk unduhan kadaluarsa lainnya. Hanya satu unduhan kedaluwarsa yang boleh menggunakan fitur ini secara bersamaan.
+20874=IDM akan membuka halaman web di browser Anda di mana ia menangkap unduhan ini. Silakan mulai mengunduh berkas yang sama dari browser Anda lagi, dan IDM akan mencoba mengambil alamat baru atau data sesi baru untuk melanjutkan unduhan ini
+20871=Menunggu data baru
+1732=Berhenti menunggu
+20875=Alamat tautan baru untuk berkas ini berhasil diterima.
+20876=Silakan mulai mengunduh berkas yang sama dari browser Anda secara manual, dan IDM akan mencoba mengambil alamat baru atau data sesi baru untuk melanjutkan unduhan ini
+20877=Coba refresh sesi download dan dapatkan alamat baru dengan menggunakan item menu \"Refresh download address\" dari menu berkas klik kanan di daftar download IDM. \r\nAtau Coba hapus unduhan ini, lalu mulai lagi dari browser Anda untuk mengunduhnya dengan IDM dari awal.
+20878=Mengunduh halaman web pemilik untuk menyegarkan alamat tautan
+20879=Situs web mengirim halaman web alih-alih berkas saat IDM meminta berkas ini untuk kedua kalinya. Mungkin situs ini menggunakan tautan sementara dan tidak mengizinkan meminta alamat yang sama dua kali.\r\n\r\nCoba hapus unduhan ini, lalu mulai lagi dari browser Anda dan, ketika IDM menangkapnya, unduh tanpa henti/jeda .
+1741=Halaman web tempat berkas ini diperoleh:
+20880=Memeriksa alamat: %s
+20881=Anda belum memeriksa berkas apa pun untuk diunduh!\r\n Jika Anda tidak ingin mengunduh apa pun, tutup dialog \"%s\" menggunakan tombol \"Batal\".
+20882=Menambahkan berkas untuk diunduh dengan IDM
+1739=Tampilkan panel pemilihan antrian saat menekan "Unduh Nanti"
+1738=Tampilkan panel pemilihan antrian pada penambahan unduhan batch
+1735=Tambahkan berkas ke antrian:
+20884=Jangan tambahkan ke antrian apapun
+1736=Mulai pemrosesan antrian
+1737=Jangan tanya saya lagi
+20883=Anda dapat mengaktifkan panel ini di \"Opsi->Unduh\"
+
+//v5.17b4
+34036=Tambahkan kumpulan unduhan dari &papan klip
+20885=Beberapa URL ditemukan di papan klip. Apakah Anda ingin mengunduhnya?
+20886=Pengunduhan batch dari papan klip.
+20887=Tidak dapat menemukan alamat web di clipboard!
+
+//v5.18b3
+m34037=Ikon tray IDM
+34037=Gaya 3D
+34038=Gaya klasik
+34039=Jangan tampilkan
+
+//v5.18b5
+20889=Lisensi Anda untuk Internet Download Manager telah kedaluwarsa.\r\n IDM telah berhenti bekerja. Dapatkan lisensi baru untuk menggunakan IDM
+20890=Perhatian:\r\nLisensi Anda untuk IDM akan kedaluwarsa dalam %ld hari.\r\n\r\n Harap dicatat bahwa item menu \"Pendaftaran->Pendaftaran\" dinonaktifkan sekarang,\r\n tetapi akan diaktifkan setelah lisensi Anda kedaluwarsa
+
+20891=Anda BELUM memeriksa hari apa pun dalam seminggu kapan penjadwal harus dimulai!
+20892=Mulai setiap hari
+
+20893=Anda telah memasukkan spasi sebelum nama pengguna. Jika spasi dimasukkan secara tidak sengaja, apakah Anda ingin IDM menghapus spasi?
+20894=Anda telah memasukkan spasi setelah nama pengguna. Jika spasi dimasukkan secara tidak sengaja, apakah Anda ingin IDM menghapus spasi?
+20895=Anda telah memasukkan spasi sebelum kata sandi. Jika spasi dimasukkan secara tidak sengaja, apakah Anda ingin IDM menghapus spasi?
+20896=Anda telah memasukkan spasi setelah kata sandi. Jika spasi dimasukkan secara tidak sengaja, apakah Anda ingin IDM menghapus spasi?
+
+//5.19
+1748=Sesuaikan panel Unduhan IDM di browser
+20899=Untuk pemain web
+20900=Untuk berkas yang dipilih
+1749=IDM dapat menampilkan panel Download pada halaman web ketika Anda memilih teks yang berisi link download.
+20901=(Saat ini fitur ini berfungsi untuk Internet Explorer, browser berbasis IE, Firefox dan browser berbasis Mozilla)
+20903=Unduh berkas yang dipilih dengan IDM
+1744=Tampilkan panel Unduh untuk tautan yang dipilih
+1745=Jangan tampilkan panel Unduh untuk tautan yang dipilih
+1746=Tampilkan panel Unduh untuk tautan yang dipilih hanya untuk situs berikut:
+1751=Ambil unduhan dari browser berikut:
+1742=Centang Semua
+1743=Hapus Semua
+
+//5.19b3
+20904=IDM tidak dapat menemukan komponen yang menginstal/mencopot integrasi browser lanjutan. Silakan instal ulang IDM.
+20911=IDM akan mengunduh halaman web alih-alih berkas.
+20909=Apakah Anda ingin tahu cara mengunduh berkas dari rapidshare dengan IDM?
+20910=Apakah Anda ingin tahu cara mengunduh dari situs berbagi berkas dengan IDM?
+20905=Tidak dapat mentransfer unduhan ke IDM
+20906=Ada kemungkinan bahwa browser dan IDM Anda diatur untuk berjalan di bawah hak yang berbeda (tingkat Elevasi yang berbeda).\r\n\r\nJika Anda menjalankan IDM menggunakan item menu \"Jalankan sebagai administrator\", silakan keluar IDM (pilih item menu \"Tasks->Exit\" dari jendela utama IDM) dan jalankan kembali IDM secara normal.\r\n\r\nMungkin Anda telah mencentang kotak \"Run this program as an administrator\" pada berkas Windows dialog properti IDMan.exe. Silakan buka folder IDM, klik kanan pada \"IDMan.exe\", pilih item menu \"Properties\", alihkan ke tab \"Compatibility\", dan hapus centang dari kotak centang \"Run this program as an administrator\" . Anda juga perlu menghapus kompatibilitas dengan versi Windows sebelumnya jika ada yang diaktifkan. Silakan restart IDM setelah itu.
+20907=Jika kotak \"Jalankan program ini sebagai administrator\" atau \"kompatibilitas dengan versi Windows sebelumnya\" tidak dicentang untuk IDM, harap hapus centang pada properti Windows dari browser Anda.
+
+//v6.0b
+20897=video %dx%d, durasi %d:%02d
+20912=Durasi
+20913=Harap diperhatikan bahwa jika Anda memiliki beberapa pengguna di komputer Anda, integrasi browser lanjutan akan dimatikan untuk semua pengguna.
+20914=Setelah mengintegrasikan Internet Download Manager ke dalam aplikasi baru, Anda dapat mematikan opsi \"Deteksi Aplikasi Baru\" untuk kinerja yang lebih baik.
+20915=Ini adalah versi BETA dari Internet Download Manager.\r\nIni akan menginstal driver jaringan baru, yang secara signifikan meningkatkan integrasi dengan pemutar web dan mengubah integrasi lama dengan beberapa browser seperti Chrome atau Opera. Jika Anda mengalami masalah saat menyambung ke Internet, misalnya, sistem macet, atau macet, dll., buka opsi IDM dan matikan kotak centang \"Gunakan integrasi browser lanjutan\" pada tab Umum. Ini akan mematikan driver baru.
+
+//v6.03b2
+20919=IDM menemukan bahwa komputer Anda mungkin tidak memiliki pemutar yang akan memutar %s video. Anda perlu memasang %s player.\r\n\r\nApakah Anda ingin membaca tentang %s player?
+20920=%s video telah diunduh
+
+//
+//Dear translators, please note that we have changed several old strings:
+//
+t1278=Sembunyikan kategori
+t32789=Tambahkan alamat unduhan baru secara manual
+t1004=Tambahkan berkas ke daftar IDM untuk diunduh nanti
+t1061=Monitor Clipboard sistem untuk tautan yang dapat diunduh dengan IDM
+187=Target jatuhnya IDM. Jatuhkan tautan web untuk mengunduh di sini.
+20176=Berkas yang diminta terlihat seperti halaman web html.\r\n\r\nJika unduhan ini diambil alih dari browser Anda secara otomatis saat Anda mengeklik tautan, coba tahan tombol Alt saat mengeklik tautan agar IE membuka page.\r\n\r\nApakah Anda ingin melanjutkan mengunduh berkas dengan IDM dan menyimpannya sebagai halaman html?
+20177=Berkas yang diunduh tampak seperti halaman web html.\r\n\r\nJika unduhan ini diambil alih dari browser Anda secara otomatis saat Anda mengeklik tautan, coba tahan tombol Alt saat mengeklik tautan agar IE membuka page.\r\n\r\nApakah Anda ingin mengganti nama berkas yang diunduh menjadi halaman html?
+34012=Cari toolbar baru
+20573=Cari toolbar baru
+57670=Isi bantuan
+20721=IDM telah berhasil diintegrasikan ke Mozilla Firefox.\n Anda perlu me-restart browser Firefox untuk menerapkan perubahan
+20342=Tautan unduhan ditemukan di papan klip. Apakah Anda ingin mengunduhnya?
+
+//Old strings 20016, 20017, 20350 replaced with:
+20916=Terjadi kesalahan yang tidak diketahui selama pengunduhan. Silakan coba lagi.
+20917=Terjadi kesalahan selama pengunduhan. Silakan coba lagi.
+20918=Nomor Seri Internet Download Manager Anda telah diblokir karena pendaftaran yang berbeda. IDM keluar...
+
+//And deleted the following strings: 
+//20178, 20179, 20180, 20181, 20182, 20183, 20184, 20185, 20186, 20187, 20188, 20189, 20190, 20191, 20192, 20193, 20194, 20195, 20196, 20197, 
+//20198, 20200, 20201, 20202, 20208, 20209, 20210, 20223, 20224, 1238, 1251, 1314, t1065, t1068, 20016, 20017, 20350
+
+//v6.03b3
+//We have changed the old strings: 20146 and 20033 (Tab name) 
+
+20921=Apakah Anda ingin tahu cara mengunduh berkas dari situs %s dengan IDM?
+20923=IDM yang dapat dieksekusi ada di desktop
+20922=Anda telah menempatkan berkas eksekusi IDM di desktop. IDM tidak dapat bekerja dengan benar tanpa berkas lainnya, harap pindahkan IDMan.exe kembali ke program, dan buat pintasan ke IDM di Desktop sebagai gantinya. Untuk membuat pintasan, buka folder IDM di Program, klik kanan pada berkas IDMan.exe dan gunakan item menu popup \"Kirim Ke -> Desktop (buat pintasan)\".
+20924=Catatan 2: Kadang-kadang ketika Anda mengklik sebuah link, browser Anda meminta berkas lain pada SAAT YANG SAMA seperti skrip Java, halaman web, gambar, dll. Ketika Anda menekan dan menahan tombol khusus, IDM memotong berkas-berkas ini, dan browser mungkin tidak meminta berkas yang diperlukan karena tidak akan menjalankan Javascript, yang telah disadap oleh IDM secara keliru. Jika Anda ingin mencegat dan mengunduh hanya berkas yang diperlukan dengan IDM, silakan aktifkan opsi di bawah ini:
+1753=Sambil menahan tombol khusus JANGAN ambil alih unduhan yang berupa halaman web, gambar, skrip, dan lain-lain.
+20925=Anda memiliki integrasi browser %s yang usang, atau integrasi %s tidak diinstal. Apakah Anda ingin membaca cara memperbaikinya?
+20926=IDM menampilkan panel unduhan alih-alih menangkap unduhan di pemutar web saat integrasi %s bekerja dengan benar.
+
+//v6.04b2
+20928=IDM telah mencegat berkas ini dari pemutar media web karena panel unduhan yang dinonaktifkan untuk masing-masing jenis berkas di Opsi IDM.\r\n\r\n Jika Anda ingin IDM menahan diri dari mencegat berkas tersebut, silakan buka \" Umum\" di Opsi IDM, klik tombol \"Edit...\" untuk panel unduhan di browser dan aktifkan kotak centang \"Jangan ambil unduhan dari pemain web secara otomatis\" di jendela pop-up.
+20929=IDM tidak dapat menggunakan Integrasi Peramban Lanjutan karena salah satu alasan berikut:\r\n1. Anda tidak memiliki hak Administrator atau Anda tidak mengizinkan program pembantu IDM untuk dijalankan sebagai Administrator.\r\n2. Anda menekan tombol Batal selama instalasi driver jaringan IDM.\r\n3. Anda memblokir pengaktifan atau penginstalan driver jaringan IDM melalui perangkat lunak keamanan pihak ketiga atau antivirus.
+//v6.04b3
+20930=IDM tidak dapat menemukan %ld berkas yang diperlukan untuk integrasi browser dan sistem. Silakan instal ulang IDM
+
+//v6.06
+//"Serial Number" explanation on registration dialog
+20931=Apa itu \"%s\"?
+20932=%s adalah kunci produk Internet Download Manager.\r\nIni adalah kode alfanumerik unik untuk setiap pengguna yang terlihat seperti\r\n xxxxx-xxxxx-xxxxx-xxxxx\r\n\r\nAnda akan menerima Serial Number HANYA setelah pembelian IDM.\r\nSilakan tekan tombol \"%s\" untuk membeli IDM.
+
+//v6.07
+20933=Pengaturan ini tidak tersedia untuk unduhan yang diproses dari antrian IDM
+20934=Pengaturan ini tidak tersedia saat \"%s\" diaktifkan
+363=Status unduhan
+364=Opsi saat selesai
+20935=Pengelola Unduhan Internet telah selesai mengunduh berkas. Menurut pengaturan Anda, unduhan ini IDM akan keluar. Tetapi Anda memiliki unduhan lain yang sedang berlangsung yang akan dihentikan saat keluar. Tekan tombol Batal untuk tidak keluar.
+20936=Pengelola Unduhan Internet telah selesai mengunduh berkas. Menurut pengaturan Anda untuk unduhan ini, IDM akan menutup modem Anda.
+20937=Pengelola Unduhan Internet telah selesai mengunduh berkas. Menurut pengaturan Anda untuk unduhan ini, komputer Anda dimatikan.
+1762= Tampilkan panel unduhan untuk konten yang dilindungi \r\n yang tidak boleh diunduh oleh IDM
+20938=konten yang dilindungi
+20939=IDM tidak dapat mengunduh aliran yang dilindungi ini karena alasan hukum. Pengunduhan aliran semacam itu tidak didukung karena IDM mungkin tidak melewati langkah-langkah teknologi yang dibuat untuk melindungi konten audio, video, dan data.\r\n\r\nDimungkinkan untuk mematikan panel unduhan untuk yang dilindungi konten yang tidak dapat diunduh IDM di \"Opsi IDM -> tab Umum\"
+
+//v6.07b7
+365=Pembatas Kecepatan
+1763=Kecepatan unduhan maksimum:
+1765=Ingat pengaturan Pembatas Kecepatan untuk berkas ini\r\n pada penghentian/lanjutan unduhan
+1772=Sembunyikan tab
+367=Sesuaikan dialog kemajuan unduhan
+1767=Sesuaikan dialog "Unduh kemajuan"
+1775=Mulai tampilan:
+1774=Catatan: Opsi "Mulai tampilan" tidak berhubungan dengan pemrosesan antrian. Saat IDM sedang memproses antrian, dialog "Unduh kemajuan" selalu mulai diminimalkan di baki sistem
+1768=Tampilkan tab "Pembatas Kecepatan"
+1769=Tampilkan tab "Opsi pada penyelesaian"
+1773=Tampilkan tombol "Sembunyikan tab"
+
+//v6.07b12
+20941=Kesalahan saat menyambung ke VPN
+20940=Mungkin Anda perlu mengubah koneksi VPN yang diatur dalam opsi IDM, atau matikan kotak centang \"Gunakan Windows Dial Up / Jaringan VPN\" di opsi IDM -> tab \"Dial Up / VPN\"
+20942=kualitas
+
+//v6.08b2 beta
+20949=Proxy/Socks
+20948=Konfigurasi proxy / Socks
+369=Pengaturan proxy lanjutan
+1777=Lanjutan...
+1778=Gunakan proxy
+1785=Gunakan proxy ini untuk protokol berikut:
+1779=Gunakan Socks
+1786=Alamat server socks
+20943=Tidak dapat terhubung ke server socks, diperlukan otorisasi
+20944=Server socks tidak dapat terhubung ke %s
+20945=Tidak dapat terhubung melalui server Socks, jenis Socks tidak diketahui
+20946=Tidak dapat terhubung melalui server socks, otorisasi gagal!
+20947=Tidak dapat terhubung ke server Socks %s
+
+//v6.09b2 beta
+1787=Pengecualian
+370=Unduh pengecualian panel
+1788=Jangan tampilkan panel unduhan IDM untuk situs-situs berikut:
+1789=Pisahkan nama dengan spasi. Anda dapat menggunakan tanda bintang sebagai pola wildcard
+20950=IDM tidak dapat menggunakan Integrasi Peramban Lanjutan karena layanan Windows \"Base Filtering Engine\" tidak berjalan. Silakan klik kanan ikon Komputer, pilih \"Kelola\", navigasikan ke \"Layanan dan Aplikasi -> Layanan\", lalu temukan \"Mesin Penyaringan Dasar\" dalam daftar dan klik kanan untuk membuka Properti. Ubah jenis Startup ke \"Otomatis\", klik \"Start\" dan konfirmasikan perubahan.\r\n\r\nKlik OK untuk mengunjungi halaman web untuk informasi tambahan.
+20951=IDM tidak dapat mengaktifkan Integrasi Browser Lanjutan karena layanan Windows \"Base Filtering Engine\" hilang. Ini bisa terjadi karena sistem Anda dirusak oleh malware komputer.\r\n\r\nKlik Oke untuk membuka halaman web dengan petunjuk pemulihan.
+
+//v6.11
+341=Tambahkan jenis berkas
+349=Masukkan nama situs
+1790=Otomatis masukkan ke dalam kategori ini berkas-berkas dari situs-situs berikut saja:
+1793=Pisahkan situs dengan spasi. Anda dapat menggunakan tanda bintang sebagai pola wildcard
+20952=Harap dicatat bahwa menurut lisensi IDM yang telah Anda terima selama instalasi IDM, sekarang Anda harus menghapus IDM atau membelinya
+
+//v6.11b7
+20953=Baru-baru ini...
+
+//v6.12b2
+20954=Browser Anda mungkin tidak membuka situs web IDM karena berkas sistem penting rusak di komputer Anda. Perbaiki berkas ini?
+20955=IDM tidak dapat memeriksa pembaruan karena berkas sistem penting rusak di komputer Anda. Perbaiki berkas ini?
+
+//v6.12b5
+1795=Tetapkan tanggal pembuatan berkas seperti yang disediakan oleh server
+
+//v6.12b6
+20956=Untuk memperbarui bagian dari ekstensi IDM untuk Firefox, tutup Firefox (atau SeaMonkey) lalu tekan tombol \"Coba lagi\"\r\nAtau Anda perlu me-restart komputer Anda nanti
+
+//v6.12b8
+//Please pay attention that we added the possibility to translate text for IDM installer and IDM uninstaller. 
+//You can find the template to translate installer in "template_inst.lng" file in "Languages" folder
+
+//v6.12b22
+20995=IDM mulai mengunduh berkas menggunakan satu koneksi karena kerusakan data ketika data yang baru diterima di beberapa koneksi tidak cocok dengan data yang sama yang diunduh sebelumnya.\r\nApakah Anda ingin membaca tentang kemungkinan penyebab kerusakan data?
+20996=IDM mulai mengunduh berkas dari awal karena data rusak karena data yang baru diterima tidak cocok dengan data yang sama yang diunduh sebelumnya.\r\nApakah Anda ingin membaca tentang kemungkinan penyebab kerusakan data?
+20997=Ekstensi IDM telah berhasil dipasang ke (atau diperbarui di) browser Google Chrome.\nAnda perlu memulai ulang Chrome untuk menerapkan perubahan
+
+//v6.15
+1796=Gunakan skrip konfigurasi otomatis
+20998=Otorisasi proxy diperlukan untuk server proxy ini. Atau matikan kotak centang \"Gunakan skrip konfigurasi otomatis\" di Opsi IDM->Proxy/Socks
+20999=IDM telah mendeteksi bahwa Anda menggunakan skrip konfigurasi proxy otomatis berikut di Internet Explorer:\r\n%s\r\n\r\nApakah Anda ingin menggunakan pengaturan proxy yang sama di IDM?
+//v6.15b7
+21000=Ini adalah siaran langsung. Jika Anda menghentikannya, Anda tidak akan dapat melanjutkan pengunduhan dari posisi saat ini.\r\nApakah Anda ingin menghentikan dan menyimpan siaran sebagai berkas lengkap?
+21001=Penghematan siaran langsung
+
+//v6.15b9
+21001=Pengunduhan skrip proxy gagal
+21003=Apakah Anda ingin membaca petunjuk rinci bagaimana mengkonfigurasi firewall Anda untuk bekerja dengan IDM?
+
+//6.15b10
+21004=format tidak diketahui (%d)
+20898=Mengunduh hingga cocok dengan bingkai di bagian berkas berikutnya...
+
+//v6.16
+21105=Integrasi Browser Lanjutan tidak dapat diaktifkan karena versi driver Kaspersky TDI yang salah diinstal!\r\n Jika memperbarui produk Kaspersky Anda secara otomatis tidak membantu, hubungi dukungan Kaspersky untuk mendapatkan pembaruan untuk driver \"kltdi\".
+
+//v6.17b7
+21106=Terjadi kesalahan saat merakit berkas
+21109=Versi IDM ini tidak mendukung jenis pengunduhan ini. Coba perbarui IDM ke versi terbaru.
+21110=Ekstensi IDM telah berhasil dipasang ke (atau diperbarui di) browser Google Chrome.\r\nAnda harus mengaktifkan ekstensi \"IDM Integration module\" di setelan Google Chrome jika Anda ingin IDM bekerja dengan Chrome dengan benar
+21111=1. Silakan MULAI ULANG Google Chrome dan tekan menu Chrome (panah 1 pada gambar)\r\n2. Pilih item menu \"Alat lainnya\" (panah 2 pada gambar).\r\n3. Pilih item menu \"Ekstensi\" (panah 3 pada gambar). \r\n4. Periksa apakah ekstensi \"IDM Integration Module\" diaktifkan (panah 4 pada gambar).\r\n5. Jika Anda menggunakan mode penyamaran di Chrome, Anda harus mengaktifkan kotak centang \"Izinkan dalam penyamaran\" (panah 5 pada gambar).
+
+//v6.17b9
+//Dear translators, please pay attention that we have added one new line (1062) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.18b3 
+//One more :) 
+//Please pay attention that we have added one more new line (21112) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.18b8
+//we have changed Options->Connection tab
+21113=Kecepatan rendah: Modem Dial Up / ISDN / Bluetooth / Mobile Edge / IrDA
+21114=Kecepatan sedang: ADSL / DSL / Seluler 3G / Wi-Fi / Bluetooth 3.0 / lainnya
+21115=Kecepatan tinggi: Koneksi langsung (Ethernet/Kabel) / Wi-Fi / Seluler 4G / lainnya
+21116=Harap gunakan banyak koneksi dengan hati-hati. Beberapa server mungkin memiliki batasan khusus untuk sejumlah koneksi dari satu klien. Ketika jumlah koneksi tinggi, server dapat memasukkan komputer Anda ke daftar hitam, terutama ketika Anda mengunduh beberapa file secara bersamaan dengan jumlah koneksi yang tinggi.\r\n\r\nSelain itu, untuk beberapa jenis koneksi , atau untuk komputer atau router berperforma rendah, kecepatan pengunduhan mungkin menurun saat Anda menambah jumlah koneksi.
+
+//v6.19
+21117=Hanya ada nama folder dalam pilihan Anda. Harap masukkan nama untuk berkas tersebut.
+21118=Ukuran berkas \"%s\" adalah %.1f GBytes.\r\nDrive \"%s\" tempat Anda ingin menyimpan berkas ini memiliki sistem berkas %s. berkas yang lebih besar dari %d GBytes tidak dapat ditulis pada sistem berkas ini.\r\n\r\nSilakan pilih folder untuk berkas ini di drive lain dengan sistem berkas NTFS
+21119=Ukuran berkas \r\n%s\r\n adalah %.1f GBytes.\r\nIDM\'s direktori sementara untuk menyimpan bagian berkas selama download terletak di drive \"%s\", drive ini memiliki sistem berkas %s. Berkas yang lebih besar dari %d GByte tidak dapat ditulis pada sistem berkas ini.\r\n\r\nUntuk melanjutkan pengunduhan, harap ubah lokasi direktori sementara ke drive lain di \"Opsi->Simpan ke\" lalu lanjutkan pengunduhan
+
+//v6.19b8
+2105=hanya trek audio
+21106=hanya trek video
+
+//v6.19b9
+21120=Gagal memeriksa pembaruan, karena informasi pembaruan tidak valid.\r\nJika Anda menggunakan wi-fi yang memerlukan log in di browser, harap log in sebelum memeriksa pembaruan
+21121=Beberapa aplikasi telah merusak integrasi IDM ke dalam browser\r\n\r\nAnda perlu menginstal ulang IDM untuk memulihkannya. Atau coba perbarui IDM dengan menggunakan item menu IDM \"Bantuan->Periksa pembaruan\".\r\nJuga verifikasi bahwa integrasi IDM ke browser Anda diaktifkan di Opsi IDM -> tab Umum.
+
+//6.21b3
+21125=Pindah
+21126=Pindahkan/Ganti Nama
+
+//new "Find file" dialog
+487=Temukan berkas
+21122=Temukan berkas
+21123=Tidak ada berkas seperti itu ditemukan
+21124=Pencarian selesai
+1807=Nama berkas atau bagian dari nama:
+1809=Deskripsi atau bagian dari deskripsi:
+1811=Kecocokan kasus
+1812=Cocokkan seluruh string saja
+1673=Temukan
+//New subitems in "Downloads" main menu
+34040=Temukan (Ctrl-F)
+34041=Temukan Berikutnya (F3)
+
+//v6.21b5
+21128=IDM tidak dapat memulai Perbarui aplikasi. Ini mungkin karena pengaturan perangkat lunak antivirus yang salah untuk folder yang berisi berkas layanan IDM.\r\n\r\nIDM sekarang akan membuka folder ini, dan Anda dapat menjalankan berkas \"idmupdt.exe\" secara manual.\r\n\ r\nAtau Anda dapat mengunduh IDM versi terbaru dari situs beranda IDM, dan menginstalnya di atas versi Anda saat ini
+21129=Kualitas Lainnya...
+21130=Jika Anda ingin mengunduh video ini dalam kualitas lain, silakan pilih kualitas yang diinginkan di pemutar web. Setelah itu, kualitas yang dipilih akan muncul di menu drop-down panel Download IDM.
+21131=Pilih Folder
+
+//v6.21b11
+21132=IDM telah mengunduh berkas %s yang menggunakan codec baru yang tidak diinstal pada komputer Anda.\r\nSilakan baca informasi lebih lanjut di situs utama IDM untuk memutar berkas tersebut di pemutar Anda.
+1813=Gunakan pemrosesan halaman web tingkat lanjut
+21133=Beberapa modul IDM belum diperbarui. Silakan instal ulang IDM versi terbaru, reboot komputer Anda, dan coba lagi untuk mengunduh berkas ini
+
+//v6.21b16
+21134=IDM tidak akan dapat membangunkan komputer dari mode tidur untuk memulai antrian unduhan Anda pada waktu yang dijadwalkan.
+21135=Harap diperhatikan bahwa saat Anda beralih ke mode Metro, desktop mungkin beralih ke mode tidur.
+21136=Jika Anda ingin IDM mengunduh antrian pada waktu yang dijadwalkan, harap aktifkan pengatur waktu bangun di pengaturan Windows.\r\nBuka \"Control Panel\\Power Options\\Change Plan Settings\\Change advanced power settings\", lalu buka simpul \"Sleep\\Allow wake timer\" dan setel ke \"Enable\".\r\n\r\nApakah Anda ingin melihat cara melakukannya di tangkapan layar?
+
+//v6.23b12
+21137=Harap diperhatikan bahwa versi ini dan semua versi IDM sebelumnya tidak boleh menggunakan berkas \"hosts\" ketika mereka terhubung ke situs rumah IDM. Ketika Anda mengubah berkas ini, Anda menutup akses ke situs web IDM hanya untuk browser web Anda. Setelah Anda menekan tombol OK, IDM akan memeriksa pembaruan dengan sukses bahkan dengan berkas \"hosts\" Anda yang rusak.
+21138=Browser Anda mungkin tidak membuka situs web IDM karena berkas sistem penting rusak di komputer Anda. IDM akan memperbaiki berkas ini sekarang.
+
+//v6.25b16
+21139=Nomor seri IDM yang Anda masukkan digunakan di komputer lain dan terhubung ke alamat email yang berbeda
+21140=Nomor seri IDM\r\n%s\r\nyang Anda masukkan digunakan di komputer lain.\r\n\r\nJika Anda ingin menggunakan nomor seri ini di komputer ini, maka Anda harus menghapus instalasi IDM dari komputer lain (atau semua komputer lain) di mana nomor seri ini digunakan sebelumnya. Jika Anda menggunakan nomor seri yang sama pada komputer yang berbeda secara bersamaan, nomor seri ini akan diblokir secara otomatis.\r\n\r\nApakah Anda ingin melanjutkan pendaftaran IDM dengan\r\n%s\r\nnomor seri ?
+//Please pay attention that we have added one more new line (1063) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.25b18
+21142=Apakah Anda ingin membaca lebih lanjut?
+21141=Anda mendaftarkan IDM dengan nomor seri di bawah\r\n%s\r\n\r\nNomor seri ini diblokir di server IDM. IDM keluar...
+
+//v6.26b5
+21146=IDM telah menemukan bagian unduhan lama yang tidak direferensikan dan tidak dihapus di folder sementara IDM\r\n%s\r\nApakah Anda ingin IDM menghapusnya untuk mengosongkan ruang disk Anda?
+
+//v6.27
+21147=Nomor seri Anda dimulai dengan: %s..............
+488=Ukuran minimum
+1822=Min. ukuran
+21148=Jangan tampilkan panel \"Unduh audio ini\" jika ukuran berkas audio di bawah ukuran minimum berikut dalam kilobyte
+21149=Jangan tampilkan panel \"Unduh video ini\" jika ukuran berkas media di bawah ukuran minimum berikut dalam kilobyte
+21150=Catatan: Batasan ini hanya berfungsi jika ukuran berkas media diketahui. Ada situasi ketika hanya durasi yang diketahui, atau tidak ada yang diketahui hingga berkas diunduh sepenuhnya. Untuk situasi seperti itu, batasan ukuran berkas ini tidak akan berfungsi.
+
+//v6.28b7
+21151=Mungkin Anda memiliki pustaka kriptografi Windows XP yang sudah usang.\r\nApakah Anda ingin membaca lebih lanjut?
+
+21153=Matikan
+21154=Tidur
+21155=Hibernasi
+21157=Internet Download Manager telah menyelesaikan pemrosesan antrian. Menurut pengaturan penjadwal komputer Anda akan ke mode tidur.
+21158=Internet Download Manager telah selesai memproses proyek grabber. Menurut pengaturan penjadwal proyek, komputer Anda akan masuk ke mode tidur.
+21159=Pengelola Unduhan Internet telah selesai mengunduh berkas. Menurut pengaturan Anda untuk unduhan ini, komputer Anda akan masuk ke mode tidur.
+21160=Internet Download Manager telah menyelesaikan pemrosesan antrian. Menurut pengaturan penjadwal komputer Anda akan hibernasi.
+21161=Internet Download Manager telah selesai memproses proyek grabber. Menurut pengaturan penjadwal proyek, komputer Anda akan hibernasi.
+21162=Pengelola Unduhan Internet telah selesai mengunduh berkas. Menurut pengaturan Anda untuk unduhan ini, komputer Anda akan hibernasi.
+21163=Mode tidur
+21164=Tidur sekarang
+21165=Hibernasi sekarang
+
+21167=Integrasi IDM ke Firefox 53 dan yang lebih baru hanya akan berfungsi ketika \"Gunakan integrasi browser lanjutan\" diaktifkan di Opsi IDM -> tab Umum
+
+//v6.30
+1823=Konfigurasi proxy/socks manual
+1824=Otomatis mendeteksi pengaturan proxy untuk jaringan ini
+1825=Gunakan pengaturan sistem
+1826=Tidak ada proxy/socks
+21169=IDM tidak dapat mendeteksi URL dari berkas Konfigurasi Otomatis Proksi untuk jaringan ini!/r/n/r/nJika Anda tidak memiliki konfigurasi otomatis untuk jaringan Anda, sebaiknya jangan gunakan opsi ini untuk menghindari penundaan saat IDM mencoba menemukan berkas paket proxy.
+489=Integrasi ke dalam browser Microsoft Edge
+21170=Ekstensi "modul integrasi IDM" baru untuk Edge telah dirilis. Ekstensi ini diperlukan untuk integrasi penuh ke dalam browser Microsoft Edge. IDM sekarang akan memulai instalasi ekstensi ini dari Microsoft store.\r\nDialog Microsoft Store untuk menginstal ekstensi IDM akan muncul ketika Anda menutup dialog ini.\r\nSilakan tekan tombol "Dapatkan" pada dialog Microsoft Store seperti yang diilustrasikan pada gambar di bawah.
+1828=Kemudian harap tunggu hingga penginstalan selesai dan jalankan browser Edge. Dalam beberapa detik Edge akan menampilkan pemberitahuan tentang ekstensi baru. Harap konfirmasi dengan menekan tombol "Aktifkan". Lihat gambar di bawah.
+
+//v6.30b7
+p21171=Silakan masukkan alamat email Anda di mana kami akan mengirimkan nomor seri IDM dan informasi pendaftaran lainnya setelah pembelian.
+p21172=Perhatikan bahwa email ini dapat digunakan untuk mengambil nomor seri IDM jika Anda kehilangannya, atau dapat digunakan untuk dukungan IDM yang diprioritaskan. Oleh karena itu, penting untuk memasukkan email yang benar.
+p21173=Masukkan email Anda
+
+p21174=Lisensi satu tahun IDM Anda dengan nomor seri yang dimulai dengan %s...
+p21175=kedaluwarsa (atau telah kedaluwarsa) pada %s
+
+p21176=Apakah Anda ingin memperpanjang lisensi ini hingga tahun depan?
+p21177=Perpanjang lisensi saya sekarang
+p21178=Anda juga dapat menekan tombol Beli di menu halaman web untuk membuka halaman pembelian biasa
+
+//v6.30b8
+21179=Lisensi IDM Anda diperpanjang hingga %s
+
+//v6.33
+21180=Tingkatkan pengambilan unduhan
+21181=IDM akan mengirimkan laporan tentang masalah dengan permintaan unduhan berulang dari situs web %s, dan aturan untuk memproses unduhan dari situs web ini tanpa kunci khusus harus ditambahkan ke server IDM dalam beberapa waktu.\r\n\r\ nMungkin juga server IDM sudah memiliki solusi untuk mengunduh dari situs web ini, kemudian IDM akan memperbarui databasenya setelah mengirimkan laporan ini.
+21182=Aturan untuk memproses unduhan dari situs web %s telah diperbarui.\r\nSekarang unduhan dari situs web ini dapat dicegat tanpa menggunakan kunci khusus.\r\n\r\nHarap diperhatikan bahwa unduhan lama yang ditambahkan sebelumnya pembaruan tidak akan dilanjutkan, Anda harus menghapusnya dan mengambilnya kembali dari browser Anda.
+21183=Tidak diubah
+21184=IDM mencegat unduhan yang menurut pengaturan situs web %s hanya dapat diminta satu kali, oleh karena itu IDM mencoba memintanya sebelum browser. Tetapi tidak ada cukup data dalam permintaan yang dicegat untuk mengunduh berkas ini.\r\n\r\nAnda mungkin menambahkan unduhan ke browser menggunakan cara yang tidak biasa, melewati pemrosesan halaman web di situs web berbagi. Dalam hal ini Anda harus memulai dari awal dengan tautan publik ke unduhan dan melewati semua langkah yang diperlukan sehingga permintaan yang dicegat akan memiliki semua data yang diperlukan.\r\n\r\nJika itu bukan unduhan dan IDM tidak sengaja mencegatnya, mohon atur kunci khusus ("Del" harus berfungsi untuk sebagian besar browser) di Opsi IDM -> Umum -> "Sesuaikan kunci untuk mencegah atau memaksa mengunduh dengan IDM" dan tahan sambil mengklik tautan untuk mencegah pengunduhan dengan IDM
+21185=Berkas dengan aturan unduhan yang diunduh dari server IDM memiliki format baru.\r\nHarap perbarui IDM dengan menggunakan item menu IDM \"Bantuan->Periksa Pembaruan\" agar IDM dapat menggunakan aturan ini.
+
+//v6.33b3
+21186=Masalah ini dapat terjadi karena ekstensi "modul integrasi IDM" dinonaktifkan atau tidak diinstal pada browser Anda.
+
+//v6.33b5
+21187=Silakan instal ekstensi untuk browser Pale Moon dari situs web IDM.
+21188=Harap diperhatikan bahwa browser Anda menggunakan ekstensi untuk menyetel koneksi VPN. Kemungkinan besar IDM tidak dapat mengunduh berkas tersebut karena browser menggunakan proxy/socks yang berbeda untuk permintaan berkas ini dan situs web menolak permintaan langsung dari IDM. IDM tidak dapat mendeteksi proxy atau socks server yang digunakan oleh ekstensi ini.\r\n\r\nCoba matikan ekstensi ini di browser Anda dan coba potong unduhan ini lagi. Jika Anda tidak dapat mencegat dan mengunduh berkas tanpa ekstensi VPN, coba ekstensi VPN lain.
+21189=Atau coba potong unduhan ini dari browser lain
+1838=Pengaturan pemeriksaan virus
+1839=User-Agent untuk unduhan yang ditambahkan secara manual:
+
+//please note that "[File]" in square brackets should not be translated because it's a command line parameter
+21190=Jika Anda ingin menjalankan perangkat lunak antivirus pada penyelesaian unduhan, Anda harus mengetik atau menelusuri jalur lengkap ke berkas yang dapat dieksekusi. Jika IDM mengetahui tentang parameter yang diperlukan untuk nama berkas executable yang diberikan, IDM akan mengaturnya secara otomatis. Jika tidak, Anda harus mengaturnya secara manual di \"Parameter baris perintah\" menurut dokumentasi perangkat lunak antivirus. berkas yang dipindai di antara parameter yang berbeda harus ditulis sebagai\r\n[File]\r\n(Anda juga harus mengetikkan tanda kurung siku). Jika tidak ada parameter yang disetel, IDM akan menjalankan perangkat lunak antivirus yang menambahkan jalur lengkap berkas yang diunduh.
+21191=Perhatikan bahwa semua perangkat lunak antivirus modern memiliki fitur \"perlindungan waktu nyata\" yang memeriksa semua operasi dengan berkas di komputer Anda, dan itu mencakup semua berkas yang diunduh di IDM. Dengan demikian, Anda perlu menambahkan pemindai perangkat lunak antivirus ke pengaturan IDM hanya ketika perlindungan waktu nyata dimatikan dalam pengaturan perangkat lunak antivirus.\r\nJuga, dalam beberapa kasus, perlindungan waktu nyata dapat secara signifikan memperlambat perakitan berkas yang dibuat oleh IDM. Kemudian Anda perlu menambahkan proses IDMan.exe ke pengecualian sesuai dengan dokumentasi perangkat lunak antivirus, dan mengatur pemeriksaan antivirus pada dialog ini.
+
+//v6.35b7
+21192=Video belum tercampur dengan audio karena aliran audio memiliki format yang berbeda. Berkas audio akan disimpan secara terpisah sebagai\r\n%s
+21193=Saat Klik dua kali
+21194=Anda tidak dapat membuka berkas ini karena unduhannya belum selesai.\r\nAnda dapat mengubah tindakan klik dua kali ke \"Properti\" di menu klik kanan
+
+//v6.35b9
+21195=Masalah seperti itu juga mungkin terjadi ketika salah satu berkas IDM dengan aturan unduhan untuk situs web tertentu dihapus, atau tidak diinstal dengan benar. Itu bisa terjadi karena instalasi IDM yang tidak valid.\r\nSilakan unduh dan instal versi IDM terbaru dari situs web resmi IDM.
+21196=IDM menemukan bahwa beberapa aplikasi telah menonaktifkan modul pemuatan IDM yang diperlukan untuk integrasi IDM ke dalam browser.\r\nIDM akan mencoba mengembalikan modul operasi normal ini sekarang. Anda perlu memastikan menjalankan \"Internet Download Manager assistant\" dengan hak administratif pada langkah berikutnya.
+21197=IDM telah membuka blokir modul untuk integrasi ke dalam browser. Namun, mungkin perlu memulai ulang komputer agar perubahan diterapkan.
+
+//v6.35b18
+1842=Gunakan TLS 1.3 dari Microsoft (Eksperimental)
+21198=Ini adalah pengaturan Windows global, jadi beberapa aplikasi yang menggunakan Opsi Internet Windows mungkin bekerja dengan beberapa kesalahan\r\nAnda juga perlu mengonfirmasi menjalankan \"Internet Download Manager assistant\" dengan hak administratif pada langkah berikutnya
+21199=Tidak dapat memuat pustaka ssl. Silakan coba instal ulang IDM.
+21200=Kesalahan saat memuat pustaka ssl. Silakan coba instal ulang IDM.
+21201=Kesalahan tidak diketahui saat memuat pustaka ssl.
+1843=Catatan: IDM hanya akan menggunakan socks untuk protokol yang TIDAK dicentang di atas
+
+//v6.35b05
+21202=Anda harus menginstal ekstensi "IDM Integraton Module" (add-on) untuk mengaktifkan integrasi IDM ke browser Firefox. IDM akan membuka halaman instalasi add-on. Kemudian silahkan tekan tombol "+ Add to Firefox", dan konfirmasi instalasi.
+
+//v6.36b07
+1844=Gunakan proxy/socks dari permintaan browser jika ada kesalahan unduhan untuk unduhan yang disadap dari browser
+
+//v6.37b6
+21203=subtitel
+
+//v6.37b7
+21204=Ini adalah versi uji coba Internet Download Manager selama 30 hari. Apakah Anda ingin mendaftarkan salinan IDM Anda sekarang?
+
+//v6.37b10
+34042=Dukungan Mode Gelap
+21205=Perubahan ini hanya akan berlaku setelah memulai ulang IDM. Apakah Anda ingin memulai ulang IDM sekarang?
+21206=IDM akan menggunakan Mode Gelap ketika diaktifkan di pengaturan Windows\r\n(Klik kanan pada Desktop -> Personalize -> Colors -> Dark app mode)
+
+//v6.37b15
+21143=Tanda tangan digital dari berkas pembaruan IDM tidak valid. Mungkin berkas pembaruan rusak.\r\nAnda dapat mengunduh versi baru IDM dari situs utama IDM dan menginstalnya di atas versi Anda saat ini secara manual
+21144=IDM tidak dapat mengunduh berkas pembaruan.\r\nAnda dapat mengunduh versi baru IDM dari situs utama IDM dan menginstalnya melalui versi Anda saat ini secara manual
+21145=Lisensi ini berakhir pada %s
+21207=IDM sudah terdaftar
+
+//v6.38b8
+21208=Sudah membeli?
+//this question is used in combination with 20347 line. It looks like:
+//Already purchased? Please enter your Serial Number 
+
+//v6.38b19
+// Dear translators, please pay attention that 21209 line below has "<font color="red"></font>" html tag to 
+// highlight a part of string in red. You must not translate this tag
+// This is our new trial version dialog. It's not activated at the moment, but you can view it and verify 
+// translated strings by using a special query:
+// Press "Add URL" button on IDM toolbar and enter the following special link
+//    test://dl=N
+// where N - the number of days less than 31, for example:
+//    test://dl=10
+// and N is -1 when trial period expires:
+//    test://dl=-1
+// Press OK and wait for 2-3 seconds until IDM requests a file from its web site
+
+21209=Anda memiliki <font color="red">%d hari lagi</font> untuk menggunakan Internet Download Manager
+21210=Jangan menunggu berakhirnya masa percobaan. Pilih opsi harga khusus di bawah ini untuk membeli lisensi IDM sekarang juga
+21211=Masa percobaan gratis Internet Download Manager telah kedaluwarsa
+21212=Anda harus membeli IDM untuk dapat digunakan, atau menghapusnya. Klik tombol harga khusus di bawah untuk membeli IDM
+
+
+//v6.39
+21213=Ini adalah lisensi seumur hidup
+
+// We have changed the search dialog and added SearchBar, find below the new lines for them
+// To test the translation, you can call the search dialog by pressing Ctrl-F (as before) or by using "Downloads->Find" menu item 
+
+1856=Temukan:
+1076=Pengaturan...
+t1076=Pengaturan Pencarian IDM
+t1854=Tutup SearchBar
+
+1861=Nama berkas atau bagian dari nama
+1858=Deskripsi atau bagian dari deskripsi
+1859=Nama situs/Tautan unduhan/Halaman web induk/Perujuk
+21215=Kotak centang untuk setidaknya satu dari target pencarian harus diaktifkan
+
+21216=Halaman Web Induk
+// new "View->Arrange files->..." main menu item:
+34043=Berdasarkan Halaman Web Induk
+
+//v6.39b3
+1862=Jangan mulai mengunduh, hanya tambahkan berkas ke antrian
+21217=IDM tidak dapat mengambil alih unduhan meskipun ada aturan khusus untuk mengambil alih unduhan dari situs web %s. Aturan mungkin harus diubah.\r\nApakah Anda ingin mengirim laporan tentang masalah ini ke situs web IDM?
+
+//v6.40
+//new menu
+m34045=Font
+34045=Pilih Jenis Font...
+34046=Setel ulang font ke bawaan
+21218=Perubahan ukuran font pada dialog utama hanya akan berlaku setelah memulai ulang IDM. Apakah Anda ingin memulai ulang IDM sekarang?
+
+//Options dlg -> Proxy tab
+1863=Dapatkan sistem
+
+//v6.40b3
+21219=Menggabungkan stream audio dan video menjadi satu berkas
+
+//v6.41
+//We have changed "Dial up" tab in IDM options to "Dial up / VPN" a long time ago
+//But we have not made the changes in this template file
+//Now we have added new strings for this tab name and its description
+21221=VPN
+21222=Pengaturan VPN
+
+//Also we have changed 1058 string
+//Previously it was higher, and without VPN 1058=Use Windows Dial Up Networking
+//The new one is below
+1058=Gunakan Windows Dial Up / Jaringan VPN
+
+21223=Karena seringnya update browser dan perubahan pada situs web, IDM perlu mengakomodasi pembaruan dan perubahan ini, dan itulah sebabnya IDM sering diperbarui.\r\nOleh karena itu, sangat penting untuk selalu menggunakan versi terbaru dari IDM untuk menjaga semua fungsi IDM berfungsi.\r\n\r\nAnda yakin tidak perlu memperbarui IDM ke versi terbaru?

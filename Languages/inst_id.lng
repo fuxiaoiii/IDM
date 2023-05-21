@@ -1,0 +1,80 @@
+instlng=0x021 Bahasa Indonesia
+full_lng=idm_id.lng
+
+// Translator: ABEMEISHA (Abe Meishandy Malik)
+// FB: fb.com/abemeisha
+
+20984=Wizard Instalasi Internet Download Manager
+20992=Harap baca lisensi IDM
+20985=Pilih Lokasi Tujuan
+20986=Pilih Grup Manajer Program
+20987=Mulai Instalasi Internet Download Manager
+20988=Menginstal
+20989=Instalasi Selesai
+20990=Pilih Metode Penghapusan Instalasi
+20991=Lakukan Uninstall
+20993=Pembaruan Cepat Internet Download Manager
+1050=Selamat datang di program Instalasi Internet Download Manager. Program ini akan menginstal Internet Download Manager di komputer Anda.
+1053=Hal ini diperlukan untuk menutup semua browser web sebelum menjalankan Program ini. Klik Lanjut untuk melanjutkan instalasi.
+1054=PERINGATAN: Program ini dilindungi oleh undang-undang hak cipta dan perjanjian internasional.
+1055=Penggandaan atau pendistribusian program ini secara tidak sah, atau sebagian darinya, dapat mengakibatkan hukuman perdata dan pidana yang berat, dan akan dituntut semaksimal mungkin berdasarkan hukum.
+1039=Akan menginstal Internet Download Manager di folder berikut.
+1040=Untuk menginstal ke folder lain, klik Browse, dan pilih folder lain.
+1041=Folder Tujuan
+1016=Jelajahi...
+1044=Masukkan nama grup Program Manager untuk menambahkan ikon Internet Download Manager ke:
+1047=Anda sekarang siap untuk menginstal Internet Download Manager.\r\n\r\nTekan tombol Berikutnya untuk memulai penginstalan atau tombol Kembali untuk mengubah informasi penginstalan.
+1035=Internet Download Manager telah berhasil diinstal.
+1036=Tekan tombol Selesai untuk keluar dari instalasi ini.
+1037=Jika Anda ingin IDM mengambil alih unduhan Anda segera setelah penginstalan, harap tutup semua browser web sebelum melanjutkan. Anda dapat membuka browser Anda setelah memulai IDM.
+1042=Berkas Saat Ini
+1038=Menyalin berkas:
+1043=Semua Berkas
+108=Instalasi IDM
+1059=Pengaturan belum selesai. Jika Anda keluar dari program sekarang, Internet Download Manager tidak akan diinstal.\r\nAnda dapat menjalankan program ini nanti untuk menyelesaikan penginstalan.
+1060=Untuk melanjutkan penginstalan, klik Lanjutkan. Untuk keluar dari program, klik Keluar
+1000=Lanjutkan
+1001=Keluar
+1015=< Kembali
+1008=Berikutnya >
+1009=Selesai >
+1007=Batal
+1058=Selamat datang di program penghapusan instalasi Internet Download Manager
+1057=Anda dapat memilih opsi "Bawaan" atau "Penuh" untuk menghapus instalasi perangkat lunak ini
+1027=Bawaan
+1028=Penuh
+1056=Opsi "Bawaan" akan menghapus semua file eksekutif IDM, dan integrasi IDM ke dalam browser.
+1061=Opsi "Penuh" juga akan menghapus semua unduhan yang belum selesai, menghapus daftar unduhan IDM, dan menghapus pengaturan IDM. Tolong jangan gunakan opsi "Penuh" jika Anda berencana untuk menggunakan IDM nanti, dan ingin menyimpan unduhan dan pengaturan Anda.
+1045=Anda sekarang siap untuk menghapus Internet Download Manager dari sistem Anda.
+1046=Tekan tombol Selesai untuk melakukan penghapusan. Tekan tombol Batal untuk keluar dari penghapusan.
+1049=Melakukan penghapusan instalasi Internet Download Manager...
+1048=Menghapus Berkas:
+1051=Silakan pilih bahasa untuk antarmuka pengguna IDM (Anda dapat mengubahnya nanti dengan menggunakan item menu ""Lihat->Bahasa"")
+20957=Terjadi kesalahan yang tidak diketahui saat menghapus integrasi IDM dari browser %s. Anda mungkin perlu menghapus file %s secara manual
+20958=Hapus Instalasi IDM
+20960=Waktu tersisa: %i menit %i detik
+20962=Instalasi IDM
+20963=Perhatian
+20964=Folder ini berisi berkas.\r\nInstalasi ke folder ini dapat merusak data yang ada\r\nJika Anda tetap ingin melanjutkan instalasi ke folder ini, tekan tombol OK\r\nJika Anda ingin memilih folder lain untuk instalasi , tekan BATAL
+20965=Program Instalasi IDM harus memulai ulang ulang komputer Anda untuk mengganti/menghapus file yang sedang digunakan. Tekan tombol OK untuk memulai ulang komputer Anda sekarang
+20966=Konfirmasi reboot
+20971=Windows tidak akan bisa mendaftarkan semua komponen IDM di folder\r\n\"%s\".\r\n\r\nSilakan pilih jalur yang hanya berisi karakter Latin untuk menginstal IDM
+20972=Memperbarui driver jaringan IDM...
+20973=Jangan batalkan dialog Windows yang sedang menyalin file
+20974=Kesalahan \"Akses ditolak\" terjadi saat membuat folder di lokasi yang ditentukan! Silahkan pilih jalur lain untuk instalasi IDM atau login sebagai administrator.
+20975=%s\r\nTidak dapat membuat folder di lokasi yang ditentukan! Silahkan pilih jalur lain untuk instalasi IDM.
+20976=Program Instalasi IDM membutuhkan sekitar 10 MBytes ruang disk. Tidak ada cukup ruang kosong pada disk yang Anda pilih untuk menginstal IDM! Harap kosongkan beberapa ruang disk, atau pilih jalur lain untuk instalasi IDM.
+20980=Kesalahan \"Access ditolak\" terjadi saat menyalin file utama IDM yang dapat dieksekusi ke lokasi yang ditentukan!\r\n\r\nInstalasi tidak dapat dilanjutkan. Silahkan pilih jalur lain untuk instalasi IDM atau login sebagai administrator.
+20981=Program instalasi IDM tidak dapat menginstal satu atau lebih file terkait IDM. Namun itu bukan kesalahan kritis, IDM harus bekerja, dan proses instalasi dapat dilanjutkan. Apakah Anda ingin melanjutkan penginstalan?
+20982=Internet Download Manager telah berhasil diperbarui.
+20983=Internet Download Manager sedang berjalan.\r\nSilakan pilih item menu \"Tugas->Keluar\" (atau \"URL->Exit\" untuk versi lama) di jendela IDM utama untuk menutup Internet Download Manager sebelum melanjutkan.
+//Please change XXX on the language you are translating IDM to
+20994=IDM harus mengunduh file utama terjemahan untuk Bahasa Indonesia dari situs IDM
+//new v6.17
+1062=Buat ikon untuk IDM di Desktop
+//new v6.18b3
+21112=Jika Anda menginstal IDM ke folder yang dipilih, IDM tidak akan dapat diintegrasikan ke dalam Internet Explorer dengan Mode Perlindungan yang Ditingkatkan diaktifkan.\r\n\r\nIDM diperlukan untuk menginstal ke folder \"%s\".\ r\n\r\nApakah Anda ingin mengubah folder instalasi menjadi\r\n\"%s\"?
+//new v6.25b15
+1063=Saya menerima persyaratan dalam perjanjian lisensi
+//new v6.33b3
+20970=Opsi protokol internet telah diubah. Anda perlu memulai ulang komputer Anda, karena Aplikasi Internet tidak akan berkomunikasi dengan baik sebelum mulai ulang.\r\n\r\nSilahkan simpan pekerjaan Anda dan tutup semua aplikasi sekarang, komputer akan MULAI ULANG setelah Anda menekan tombol OK.

@@ -1,0 +1,12 @@
+IDM mengambil alih unduhan dari browser apa pun jika jenisnya cocok dengan daftar jenis/ekstensi. Anda dapat mengedit daftar ekstensi di "Opsi IDM->Jenis berkas".
+Jika Anda memiliki masalah dalam mengunduh berkas dari server (seperti server sibuk, beberapa waktu habis, server lain atau masalah terkait jaringan), Anda dapat membiarkan berkas ini sendiri dalam antrian penjadwal IDM dan memulai antrian. Penjadwal IDM akan mencoba mengunduh berkas setiap 30 detik.
+IDM akan mengambil alih unduhan apa pun jika Anda menahan tombol khusus saat mengeklik tautan unduhannya di browser. (Anda perlu mengatur kunci ini di opsi IDM, Tab Umum, tombol Tombol. Perhatikan bahwa tombol "Sisipkan" harus berfungsi dengan sebagian besar browser)
+Jika Anda menahan tombol ALT saat mengklik tautan unduhan di browser, IDM tidak akan mengambil alih unduhan dan membiarkan browser mengunduh berkas. (Anda dapat mengubah kunci ini di opsi IDM, Tab Umum, tombol Tombol)
+Jika Anda tidak mengerti apa-apa, coba tekan tombol F1 dan bantuan sensitif konteks akan muncul.
+Jika Anda tidak ingin IDM mengambil alih unduhan apa pun dari browser, matikan integrasi browser di opsi IDM.
+Anda dapat menonaktifkan dialog unduhan lengkap yang menyarankan untuk membuka berkas. Cukup hapus centang pada kotak "Tampilkan dialog unduhan selesai" di "IDM Opsi->Unduh"
+Anda dapat menonaktifkan dialog mulai unduh yang menanyakan tempat menyimpan berkas. Cukup hapus centang pada kotak "Tampilkan dialog mulai unduh" di "IDM Opsi->Unduh"
+Anda dapat meminimalkan atau menonaktifkan dialog unduhan kemajuan di Opsi IDM-> Unduh.
+Anda dapat menjalankan IDM dari baris perintah untuk mengunduh berkas. Baca bab "Bantuan->Memulai Unduhan" untuk informasi lebih lanjut.
+Anda dapat menyeret berkas dari jendela utama IDM dan menjatuhkannya ke aplikasi lain (misalnya, Winamp, Media Player, dll.). Anda juga dapat menggunakan drag and drop untuk memindahkan atau menyalin berkas dari IDM ke folder Windows mana pun.
+Jika Anda tidak ingin memasukkan nama dan kata sandi yang sama berulang kali setiap kali Anda mengunduh dari server yang dilindungi, Anda dapat menambahkan server, nama login dan kata sandi ke daftar login situs di "IDM Opsi->Login Situs"
